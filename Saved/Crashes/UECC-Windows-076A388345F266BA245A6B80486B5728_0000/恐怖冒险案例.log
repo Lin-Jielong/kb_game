@@ -1,0 +1,1823 @@
+﻿Log file open, 09/17/22 22:55:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=21692)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: 恐怖冒险案例
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" E:/mod/恐怖冒险案例/恐怖冒险案例.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2006] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="384d541a4520cd58b6ed5ab53f079203"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.305224
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-076A388345F266BA245A6B80486B5728
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.07 seconds
+LogConfig: Display: Loading Linux ini files took 0.07 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin ElectronicNodes
+LogPluginManager: Mounting Engine plugin RestartEditor
+LogPluginManager: Mounting Engine plugin UAssetBrowser
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Marketplace/UAssetBrowser/Content/' mounted to '/UAssetBrowser/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2006] (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.09.17-14.55.45:613][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.09.17-14.55.45:613][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.09.17-14.55.45:613][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.09.17-14.55.45:614][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.09.17-14.55.45:616][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.09.17-14.55.45:616][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.09.17-14.55.45:616][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.09.17-14.55.45:616][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.09.17-14.55.45:616][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.09.17-14.55.45:616][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.09.17-14.55.45:616][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.09.17-14.55.45:616][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.09.17-14.55.45:616][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.09.17-14.55.45:616][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.09.17-14.55.45:616][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.09.17-14.55.45:639][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.09.17-14.55.45:643][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.09.17-14.55.45:643][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.09.17-14.55.45:643][  0]LogD3D11RHI: D3D11 adapters:
+[2022.09.17-14.55.45:643][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2022.09.17-14.55.45:643][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2070
+[2022.09.17-14.55.45:643][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.09.17-14.55.45:643][  0]LogD3D11RHI:     DeviceId    : 1f02
+[2022.09.17-14.55.45:643][  0]LogD3D11RHI:     SubSysId    : 37311462
+[2022.09.17-14.55.45:643][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.09.17-14.55.45:643][  0]LogD3D11RHI:     DedicatedVideoMemory : 8421113856 bytes
+[2022.09.17-14.55.45:643][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.09.17-14.55.45:643][  0]LogD3D11RHI:     SharedSystemMemory : 8546396160 bytes
+[2022.09.17-14.55.45:643][  0]LogD3D11RHI:     AdapterLuid : 0 55504
+[2022.09.17-14.55.45:836][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_1)
+[2022.09.17-14.55.45:836][  0]LogD3D11RHI:       8031/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.09.17-14.55.45:836][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2022.09.17-14.55.45:836][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2022.09.17-14.55.45:836][  0]LogD3D11RHI:     VendorId    : 1414
+[2022.09.17-14.55.45:836][  0]LogD3D11RHI:     DeviceId    : 008c
+[2022.09.17-14.55.45:836][  0]LogD3D11RHI:     SubSysId    : 0000
+[2022.09.17-14.55.45:836][  0]LogD3D11RHI:     Revision    : 0000
+[2022.09.17-14.55.45:836][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2022.09.17-14.55.45:836][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.09.17-14.55.45:836][  0]LogD3D11RHI:     SharedSystemMemory : 8546396160 bytes
+[2022.09.17-14.55.45:836][  0]LogD3D11RHI:     AdapterLuid : 0 58962
+[2022.09.17-14.55.45:839][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.09.17-14.55.45:839][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.09.17-14.55.45:839][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.09.17-14.55.45:839][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2070
+[2022.09.17-14.55.45:839][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.09.17-14.55.45:839][  0]LogD3D11RHI:     DeviceId    : 1f02
+[2022.09.17-14.55.45:839][  0]LogD3D11RHI:     SubSysId    : 37311462
+[2022.09.17-14.55.45:839][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.09.17-14.55.45:839][  0]LogD3D11RHI:     DedicatedVideoMemory : 8421113856 bytes
+[2022.09.17-14.55.45:839][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.09.17-14.55.45:839][  0]LogD3D11RHI:     SharedSystemMemory : 8546396160 bytes
+[2022.09.17-14.55.45:839][  0]LogD3D11RHI:     AdapterLuid : 0 55504
+[2022.09.17-14.55.45:840][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.17-14.55.45:840][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.09.17-14.55.45:840][  0]LogHAL: Display: Platform has ~ 16 GB [17092792320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.17-14.55.45:840][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.09.17-14.55.45:840][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.09.17-14.55.45:840][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.17-14.55.45:840][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.09.17-14.55.45:840][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/mod/恐怖冒险案例/Saved/Config/WindowsEditor/Editor.ini]
+[2022.09.17-14.55.45:840][  0]LogInit: Computer: PS-1
+[2022.09.17-14.55.45:840][  0]LogInit: User: Admin
+[2022.09.17-14.55.45:840][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.09.17-14.55.45:840][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.17-14.55.45:840][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.09.17-14.55.45:840][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.09.17-14.55.45:840][  0]LogMemory: Process Physical Memory: 254.27 MB used, 261.27 MB peak
+[2022.09.17-14.55.45:840][  0]LogMemory: Process Virtual Memory: 204.24 MB used, 204.24 MB peak
+[2022.09.17-14.55.45:840][  0]LogMemory: Physical Memory: 8876.45 MB used,  7424.51 MB free, 16300.96 MB total
+[2022.09.17-14.55.45:840][  0]LogMemory: Virtual Memory: 14844.27 MB used,  5366.28 MB free, 20210.55 MB total
+[2022.09.17-14.55.45:840][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.09.17-14.55.45:854][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.17-14.55.45:879][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.09.17-14.55.45:880][  0]LogInit: Using OS detected language (zh-CN).
+[2022.09.17-14.55.45:880][  0]LogInit: Using OS detected locale (zh-CN).
+[2022.09.17-14.55.45:885][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so 'zh-Hans' will be used for the language.
+[2022.09.17-14.55.45:976][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2022.09.17-14.55.45:977][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2022.09.17-14.55.45:977][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2022.09.17-14.55.45:977][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2022.09.17-14.55.45:977][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2022.09.17-14.55.45:977][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2022.09.17-14.55.45:977][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2022.09.17-14.55.45:977][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2022.09.17-14.55.45:977][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2022.09.17-14.55.45:978][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2022.09.17-14.55.45:978][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2022.09.17-14.55.46:023][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.17-14.55.46:101][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.09.17-14.55.46:101][  0]LogWindowsTextInputMethodSystem:   - 中文(简体，中国) - 智能云输入法 (TSF IME).
+[2022.09.17-14.55.46:101][  0]LogWindowsTextInputMethodSystem:   - 中文(简体，中国) - 搜狗拼音输入法 (TSF IME).
+[2022.09.17-14.55.46:101][  0]LogWindowsTextInputMethodSystem:   - 中文(简体，中国) - 微软拼音 (TSF IME).
+[2022.09.17-14.55.46:101][  0]LogWindowsTextInputMethodSystem:   - 中文(简体，中国) - 触控输入更正 (TSF IME).
+[2022.09.17-14.55.46:101][  0]LogWindowsTextInputMethodSystem: Activated input method: 中文(简体，中国) - 搜狗拼音输入法 (TSF IME).
+[2022.09.17-14.55.46:118][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.17-14.55.46:118][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.17-14.55.46:318][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.09.17-14.55.46:318][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.17-14.55.46:318][  0]LogWindows: Attached monitors:
+[2022.09.17-14.55.46:318][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.09.17-14.55.46:318][  0]LogWindows: Found 1 attached monitors.
+[2022.09.17-14.55.46:318][  0]LogWindows: EnumDisplayDevices:
+[2022.09.17-14.55.46:319][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.09.17-14.55.46:319][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.09.17-14.55.46:320][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.09.17-14.55.46:321][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.09.17-14.55.46:321][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.09.17-14.55.46:321][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2022.09.17-14.55.46:321][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.09.17-14.55.46:321][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2022.09.17-14.55.46:321][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2022.09.17-14.55.46:322][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.09.17-14.55.46:322][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2070
+[2022.09.17-14.55.46:322][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.09.17-14.55.46:322][  0]LogD3D11RHI:     DeviceId    : 1f02
+[2022.09.17-14.55.46:322][  0]LogD3D11RHI:     SubSysId    : 37311462
+[2022.09.17-14.55.46:322][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.09.17-14.55.46:322][  0]LogD3D11RHI:     DedicatedVideoMemory : 8421113856 bytes
+[2022.09.17-14.55.46:322][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.09.17-14.55.46:322][  0]LogD3D11RHI:     SharedSystemMemory : 8546396160 bytes
+[2022.09.17-14.55.46:322][  0]LogD3D11RHI:     AdapterLuid : 0 55504
+[2022.09.17-14.55.46:391][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.09.17-14.55.46:391][  0]LogD3D11RHI: Async texture creation enabled
+[2022.09.17-14.55.46:391][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.09.17-14.55.46:391][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.09.17-14.55.46:411][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.09.17-14.55.46:502][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.09.17-14.55.46:512][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/mod/恐怖冒险案例/恐怖冒险案例.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/mod/恐怖冒险案例/Intermediate/TurnkeyReport_0.log" -log="E:/mod/恐怖冒险案例/Intermediate/TurnkeyLog_0.log" -project="E:/mod/恐怖冒险案例/恐怖冒险案例.uproject"  -platform=all'
+[2022.09.17-14.55.46:512][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/mod/恐怖冒险案例/恐怖冒险案例.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/mod/恐怖冒险案例/Intermediate/TurnkeyReport_0.log" -log="E:/mod/恐怖冒险案例/Intermediate/TurnkeyLog_0.log" -project="E:/mod/恐怖冒险案例/恐怖冒险案例.uproject"  -platform=all" ]
+[2022.09.17-14.55.46:564][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.09.17-14.55.46:578][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.09.17-14.55.46:578][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.09.17-14.55.46:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.09.17-14.55.46:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.09.17-14.55.46:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.09.17-14.55.46:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.09.17-14.55.46:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.09.17-14.55.46:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.09.17-14.55.46:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.09.17-14.55.46:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.09.17-14.55.46:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.09.17-14.55.46:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.09.17-14.55.46:641][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.09.17-14.55.46:641][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.09.17-14.55.46:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.09.17-14.55.46:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.09.17-14.55.46:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.09.17-14.55.46:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.09.17-14.55.46:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.09.17-14.55.46:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.09.17-14.55.46:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.09.17-14.55.46:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.09.17-14.55.46:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.09.17-14.55.46:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.09.17-14.55.46:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.09.17-14.55.46:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.17-14.55.46:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.09.17-14.55.46:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.17-14.55.46:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.17-14.55.46:672][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.09.17-14.55.46:685][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.17-14.55.46:691][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.09.17-14.55.46:691][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.09.17-14.55.46:691][  0]LogTargetPlatformManager:   ADPCM
+[2022.09.17-14.55.46:691][  0]LogTargetPlatformManager:   PCM
+[2022.09.17-14.55.46:695][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.09.17-14.55.46:695][  0]LogTargetPlatformManager:   BINKA
+[2022.09.17-14.55.46:695][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.09.17-14.55.46:695][  0]LogTargetPlatformManager:   OGG
+[2022.09.17-14.55.46:695][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.09.17-14.55.46:695][  0]LogTargetPlatformManager:   OPUS
+[2022.09.17-14.55.46:750][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.09.17-14.55.46:759][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.09.17-14.55.46:759][  0]LogTargetPlatformManager:   SF_METAL
+[2022.09.17-14.55.46:759][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.09.17-14.55.46:759][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.09.17-14.55.46:759][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.09.17-14.55.46:759][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.09.17-14.55.46:759][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.09.17-14.55.46:759][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.09.17-14.55.46:759][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.09.17-14.55.46:759][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.09.17-14.55.46:759][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.09.17-14.55.46:759][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.09.17-14.55.46:759][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.09.17-14.55.46:759][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.09.17-14.55.46:759][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.09.17-14.55.46:759][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.09.17-14.55.46:763][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.09.17-14.55.46:763][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.09.17-14.55.46:763][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.09.17-14.55.46:763][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.09.17-14.55.46:763][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.09.17-14.55.46:763][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.09.17-14.55.46:763][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.09.17-14.55.46:763][  0]LogRendererCore: Ray tracing is disabled. Reason: not supported by current RHI.
+[2022.09.17-14.55.46:764][  0]LogShaderCompilers: Display: Compiling shader autogen file: E:/mod/恐怖冒险案例/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.09.17-14.55.46:764][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.17-14.55.46:764][  0]LogShaderCompilers: Display: Compiling shader autogen file: E:/mod/恐怖冒险案例/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+[2022.09.17-14.55.46:764][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.17-14.55.46:764][  0]LogShaderCompilers: Display: Compiling shader autogen file: E:/mod/恐怖冒险案例/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.09.17-14.55.46:764][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.17-14.55.46:767][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/mod/恐怖冒险案例/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.17-14.55.46:767][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.09.17-14.55.46:767][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/mod/恐怖冒险案例/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.17-14.55.46:767][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.09.17-14.55.46:782][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.09.17-14.55.46:782][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.17-14.55.46:782][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.09.17-14.55.46:792][  0]LogDerivedDataCache: Speed tests for C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.09.17-14.55.46:792][  0]LogDerivedDataCache: Display: Performance to C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.14ms. RandomReadSpeed=590.62MBs, RandomWriteSpeed=147.81MBs. Assigned SpeedClass 'Local'
+[2022.09.17-14.55.46:793][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.17-14.55.46:793][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.17-14.55.46:793][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.09.17-14.55.46:798][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.09.17-14.55.46:798][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.09.17-14.55.46:799][  0]LogShaderCompilers: Guid format shader working directory is 32 characters bigger than the processId version (E:/mod/恐怖冒险案例/Intermediate/Shaders/WorkingDirectory/27392/).
+[2022.09.17-14.55.46:799][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Admin/AppData/Local/Temp/UnrealShaderWorkingDir/EEBD48804E1211F7E6B512B5638E4E00/'.
+[2022.09.17-14.55.46:800][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.17-14.55.46:800][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.09.17-14.55.48:092][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.09.17-14.55.48:092][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.17-14.55.48:093][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.17-14.55.48:125][  0]LogAssetRegistry: FAssetRegistry took 0.0115 seconds to start up
+[2022.09.17-14.55.48:132][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.09.17-14.55.48:283][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.09.17-14.55.48:283][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.09.17-14.55.48:598][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.17-14.55.48:598][  0]LogDeviceProfileManager: Active device profile: [00000A0B244DB280][00000A0B247A0000 50] WindowsEditor
+[2022.09.17-14.55.48:598][  0]LogDeviceProfileManager: Profiles: [00000A0B244DAD40][00000A0B247A5000 50] Windows, [00000A0B244DB280][00000A0B247A0000 50] WindowsEditor, [00000A0B244D7C40][00000A0B247A2800 50] WindowsServer, [00000A0B244D71C0][00000A0B15E87800 50] WindowsClient, [00000A0B244D86C0][00000A0B247AC800 50] IOS, [00000A0B244D7000][00000A0B15E85000 50] iPadAir2, [00000A0B244D9BC0][00000A0B247D5000 50] IPadPro, [00000A0B244D8F80][00000A0B247D0000 50] iPadAir3, [00000A0B244D8340][00000A0B247D2800 50] iPadAir4, [00000A0B244DA100][00000A0B247A7800 50] iPadMini4, [00000A0B244D9300][00000A0B247D7800 50] iPadMini5, [00000A0B244D6040][00000A0B15E1C800 50] iPadMini6, [00000A0B244DEFC0][00000A0B247F5000 50] iPhone6S, [00000A0B244DF340][00000A0B247F7800 50] iPhone7, [00000A0B244DF6C0][00000A0B247FA000 50] iPodTouch7, [00000A0B244D6200][00000A0B247DA000 50] iPhone6SPlus, [00000A0B244DB0C0][00000A0B247FC800 50] iPhone7Plus, [00000A0B244DCB00][00000A0B247AA000 50] iPhoneSE, [00000A0B244DEC40][00000A0B15E8A000 50] iPhone8, [00000A0B244DBEC0][00000A0B247F2800 50] iPhone8Plus, [00000A0B244D8180][00000A0B247B2800 50] iPhoneX, [00000A0B244DB600][00000A0B247B0000 50] iPhoneXS, [00000A0B244DA9C0][00000A0B247BA000 50] iPhoneXSMax, [00000A0B244DCCC0][00000A0B247F0000 50] iPhoneXR, [00000A0B244DF500][00000A0B247DC800 50] iPhone11, [00000A0B244DAB80][00000A0B247B7800 50] iPhone11Pro, [00000A0B244D8880][00000A0B24792800 50] iPhone11ProMax, [00000A0B244DDAC0][00000A0B24790000 50] iPhoneSE2, [00000A0B244D8DC0][00000A0B2479A000 50] iPhone12Mini, [00000A0B244D6C80][00000A0B247B5000 50] iPhone12, [00000A0B244D9840][00000A0B24795000 50] iPhone12Pro, [00000A0B244DF180][00000A0B24797800 50] iPhone12ProMax, [00000A0B244D9F40][00000A0B25992800 50] iPhone13Mini, [00000A0B244DA480][00000A0B25990000 50] iPhone13, [00000A0B244DC940][00000A0B2599A000 50] iPhone13Pro, [00000A0B244DE8C0][00000A0B2479C800 50] iPhone13ProMax, [00000A0B244DE1C0][00000A0B0BB6A000 50] iPadPro105, [00000A0B244DF880][00000A0B25997800 50] iPadPro129, [00000A0B244D94C0][00000A0B259A2800 50] iPadPro97, [00000A0B244DD580][00000A0B259A0000 50] iPadPro2_129, [00000A0B244DD3C0][00000A0B259AA000 50] iPad5, [00000A0B244D7540][00000A0B25995000 50] iPad6, [00000A0B244D7FC0][00000A0B259A5000 50] iPad7, [00000A0B244DC5C0][00000A0B259A7800 50] iPad8, [00000A0B244DA2C0][00000A0B259B2800 50] iPad9, [00000A0B244D7700][00000A0B259B0000 50] iPadPro11, [00000A0B244DFA40][00000A0B259BA000 50] iPadPro2_11, [00000A0B244DDC80][00000A0B259AC800 50] iPadPro3_11, [00000A0B244D78C0][00000A0B247BC800 50] iPadPro3_129, [00000A0B244DEE00][00000A0B259B7800 50] iPadPro4_129, [00000A0B244DA800][00000A0B259C2800 50] iPadPro5_129, [00000A0B244DD900][00000A0B259C0000 50] AppleTV, [00000A0B244D6E40][00000A0B259CA000 50] AppleTV4K, [00000A0B244DE380][00000A0B259B5000 50] TVOS, [00000A0B25A00700][00000A0B259E5000 50] Mac, [00000A0B25A00A80][00000A0B259E0000 50] MacEditor, [00000A0B25A024C0][00000A0B259E2800 50] MacClient, [00000A0B25A01340][00000A0B259C5000 50] MacServer, [00000A0B25A04980][00000A0B259E7800 50] Linux, [00000A0B25A04D00][00000A0B259EC800 50] LinuxEditor, [00000A0B25A01A40][00000A0B259EA000 50] LinuxArm64Editor, [00000A0B25A01C00][00000A0B259CC800 50] LinuxArm64, [00000A0B25A00FC0][00000A0B259D2800 50] LinuxClient, [00000A0B25A04600][00000A0B259D0000 50] LinuxArm64Client, [00000A0B25A02BC0][00000A0B259DA000 50] LinuxServer, [00000A0B25A03640][00000A0B259C7800 50] LinuxArm64Server, [00000A0B25A008C0][00000A0B2599C800 50] Android, [00000A0B25A032C0][00000A0B259D7800 50] Android_Preview_OpenGL, [00000A0B25A00380][00000A0B259F2800 50] Android_Preview_Vulkan, [00000A0B25A01DC0][00000A0B259F0000 50] Android_Low, [00000A0B25A00E00][00000A0B259FA000 50] Android_Mid, [00000A0B25A03F00][00000A0B259D5000 50] Android_High, [00000A0B25A02840][00000A0B259F5000 50] Android_Default, [00000A0B25A01F80][00000A0B259F7800 50] Android_Adreno4xx, [00000A0B25A03D40][00000A0B25A12800 50] Android_Adreno5xx_Low, [00000A0B25A00000][00000A0B25A10000 50] Android_Adreno5xx, [00000A0B25A02140][00000A0B25A1A000 50] Android_Adreno6xx, [00000A0B25A00540][00000A0B259FC800 50] Android_Adreno6xx_Vulkan, [00000A0B25A02D80][00000A0B259BC800 50] Android_Adreno7xx, [00000A0B25A01180][00000A0B25A17800 50] Android_Adreno7xx_Vulkan, [00000A0B25A03480][00000A0B25A22800 50] Android_Mali_T6xx, [00000A0B25A055C0][00000A0B25A20000 50] Android_Mali_T7xx, [00000A0B25A03100][00000A0B25A2A000 50] Android_Mali_T8xx, [00000A0B25A03B80][00000A0B25A15000 50] Android_Mali_G71, [00000A0B25A039C0][00000A0B25A25000 50] Android_Mali_G72, [00000A0B25A05780][00000A0B25A27800 50] Android_Mali_G72_Vulkan, [00000A0B25A01500][00000A0B25A32800 50] Android_Mali_G76, [00000A0B25A05B00][00000A0B25A30000 50] Android_Mali_G76_Vulkan, [00000A0B25A040C0][00000A0B25A3A000 50] Android_Mali_G77, [00000A0B25A04B40][00000A0B25A2C800 50] Android_Mali_G77_Vulkan, [00000A0B25A06580][00000A0B259DC800 50] Android_Mali_G78, [00000A0B25A02300][00000A0B25A37800 50] Android_Mali_G78_Vulkan, [00000A0B25A047C0][00000A0B25A42800 50] Android_Mali_G710, [00000A0B25A01880][00000A0B25A40000 50] Android_Mali_G710_Vulkan, [00000A0B25A06740][00000A0B25A4A000 50] Android_Xclipse_920, [00000A0B25A04280][00000A0B25A35000 50] Android_Xclipse_920_Vulkan, [00000A0B25A06AC0][00000A0B25A45000 50] Android_Vulkan_SM5, [00000A0B25A05400][00000A0B25A47800 50] Android_PowerVR_G6xxx, [00000A0B25A07540][00000A0B25A62800 50] Android_PowerVR_GT7xxx, [00000A0B25A001C0][00000A0B25A60000 50] Android_PowerVR_GE8xxx, [00000A0B25A06040][00000A0B25A6A000 50] Android_PowerVR_GM9xxx, [00000A0B25A05080][00000A0B25A4C800 50] Android_PowerVR_GM9xxx_Vulkan, [00000A0B25A07700][00000A0B25A1C800 50] Android_TegraK1, [00000A0B25A063C0][00000A0B25A67800 50] Android_Unknown_Vulkan, [00000A0B25A07A80][00000A0B24762800 50] Oculus_Quest, [00000A0B25A04EC0][00000A0B24760000 50] Oculus_Quest2, [00000A0B25A05E80][00000A0B2476A000 50] HoloLens, 
+[2022.09.17-14.55.48:598][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.09.17-14.55.48:600][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.09.17-14.55.48:601][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.09.17-14.55.48:601][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.09.17-14.55.48:601][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.09.17-14.55.48:601][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="Platform_ValidHostPrerequisites")
+[2022.09.17-14.55.48:622][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.09.17-14.55.48:820][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.17-14.55.48:820][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.17-14.55.48:820][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.17-14.55.48:820][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.17-14.55.48:820][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.17-14.55.48:841][  0]LogNetVersion: 恐怖冒险案例 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 4255523869)
+[2022.09.17-14.55.48:972][  0]LogSlate: Border
+[2022.09.17-14.55.48:972][  0]LogSlate: BreadcrumbButton
+[2022.09.17-14.55.48:972][  0]LogSlate: Default
+[2022.09.17-14.55.48:972][  0]LogSlate: Icons.Save
+[2022.09.17-14.55.48:972][  0]LogSlate: Icons.Toolbar.Settings
+[2022.09.17-14.55.48:972][  0]LogSlate: ListView
+[2022.09.17-14.55.48:972][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.09.17-14.55.48:972][  0]LogSlate: SoftwareCursor_Grab
+[2022.09.17-14.55.48:972][  0]LogSlate: TableView.DarkRow
+[2022.09.17-14.55.48:972][  0]LogSlate: TableView.Row
+[2022.09.17-14.55.48:973][  0]LogSlate: TreeView
+[2022.09.17-14.55.49:171][  0]SourceControl: 源码管理已禁用
+[2022.09.17-14.55.49:201][  0]SourceControl: 源码管理已禁用
+[2022.09.17-14.55.49:201][  0]SourceControl: 源码管理已禁用
+[2022.09.17-14.55.49:315][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.09.17-14.55.49:315][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.09.17-14.55.49:315][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.17-14.55.49:797][  0]LogPython: Using Python 3.9.7
+[2022.09.17-14.55.50:648][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: D402D92747200D88A636D7A17EEDC96A | Instance: 16B9F85646A4510D0F0FFCA92BA08EC5 (PS-1-27392).
+[2022.09.17-14.55.50:693][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.17-14.55.50:701][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.17-14.55.50:813][  0]SourceControl: 源码管理已禁用
+[2022.09.17-14.55.50:818][  0]SourceControl: 源码管理已禁用
+[2022.09.17-14.55.50:832][  0]SourceControl: 源码管理已禁用
+[2022.09.17-14.55.50:850][  0]LogUProjectInfo: Found projects:
+[2022.09.17-14.55.50:858][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.17-14.55.50:858][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.17-14.55.50:859][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.17-14.55.51:221][  0]LogOpenImageDenoise: OIDN starting up
+[2022.09.17-14.55.51:487][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.17-14.55.51:519][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.17-14.55.51:519][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.17-14.55.51:652][  0]LogCollectionManager: Loaded 0 collections in 0.000724 seconds
+[2022.09.17-14.55.51:755][  0]LogFileCache: Scanning file cache for directory 'E:/mod/恐怖冒险案例/Saved/Collections/' took 0.00s
+[2022.09.17-14.55.51:755][  0]LogFileCache: Scanning file cache for directory 'E:/mod/恐怖冒险案例/Content/Developers/Admin/Collections/' took 0.00s
+[2022.09.17-14.55.51:756][  0]LogFileCache: Scanning file cache for directory 'E:/mod/恐怖冒险案例/Content/Collections/' took 0.00s
+[2022.09.17-14.55.52:077][  0]LogEngine: Initializing Engine...
+[2022.09.17-14.55.52:090][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.09.17-14.55.52:092][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.09.17-14.55.52:379][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.17-14.55.52:380][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.17-14.55.52:391][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.17-14.55.52:420][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.17-14.55.52:421][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.09.17-14.55.52:448][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.09.17-14.55.52:449][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.09.17-14.55.52:449][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.09.17-14.55.52:449][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.09.17-14.55.52:449][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.09.17-14.55.52:449][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.17-14.55.52:449][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.17-14.55.52:449][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.17-14.55.52:450][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.17-14.55.52:450][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.09.17-14.55.52:450][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.17-14.55.52:450][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.09.17-14.55.52:450][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.17-14.55.52:450][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.17-14.55.52:450][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.17-14.55.52:450][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.17-14.55.52:461][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.17-14.55.52:564][  0]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (THX Spatial - Synapse)
+[2022.09.17-14.55.52:565][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.17-14.55.52:568][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.17-14.55.52:568][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.17-14.55.52:568][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.09.17-14.55.52:568][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2022.09.17-14.55.52:569][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.17-14.55.52:569][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.09.17-14.55.52:570][  0]LogInit: FAudioDevice initialized.
+[2022.09.17-14.55.52:570][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.17-14.55.52:570][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.17-14.55.52:570][  0]LogInit: Texture streaming: Enabled
+[2022.09.17-14.55.52:609][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.09.17-14.55.52:621][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.17-14.55.52:645][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.09.17-14.55.52:654][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.09.17-14.55.52:654][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.09.17-14.55.54:527][  0]LogLiveCoding: Display: First instance in process group "UE________0xabd04fb5", spawning console
+[2022.09.17-14.55.54:527][  0]LogLiveCoding: Display: Waiting for server
+[2022.09.17-14.55.54:527][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.09.17-14.55.54:561][  0]LogInit: Transaction tracking system initialized
+[2022.09.17-14.55.54:639][  0]BlueprintLog: New page: 编辑器加载
+[2022.09.17-14.55.54:846][  0]LocalizationService: 本地化服务已禁用
+[2022.09.17-14.55.54:898][  0]TimingProfiler: Initialize
+[2022.09.17-14.55.54:898][  0]TimingProfiler: OnSessionChanged
+[2022.09.17-14.55.54:898][  0]LoadingProfiler: Initialize
+[2022.09.17-14.55.54:898][  0]LoadingProfiler: OnSessionChanged
+[2022.09.17-14.55.54:898][  0]NetworkingProfiler: Initialize
+[2022.09.17-14.55.54:898][  0]NetworkingProfiler: OnSessionChanged
+[2022.09.17-14.55.54:898][  0]MemoryProfiler: Initialize
+[2022.09.17-14.55.54:898][  0]MemoryProfiler: OnSessionChanged
+[2022.09.17-14.55.55:095][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.17-14.55.55:095][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.17-14.55.55:096][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.17-14.55.55:669][  0]LogFileCache: Scanning file cache for directory 'E:/mod/恐怖冒险案例/Content/' took 0.01s
+[2022.09.17-14.55.55:669][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.09.17-14.55.55:715][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.09.17-14.55.55:717][  0]SourceControl: 源码管理已禁用
+[2022.09.17-14.55.55:717][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.844
+[2022.09.17-14.55.55:717][  0]Cmd: MAP LOAD FILE="E:/mod/恐怖冒险案例/Content/Maps场景/Level关卡.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.17-14.55.55:717][  0]LightingResults: New page: 光照构建
+[2022.09.17-14.55.55:724][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.17-14.55.55:724][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.17-14.55.55:724][  0]MapCheck: New page: 地图检测
+[2022.09.17-14.55.55:724][  0]LightingResults: New page: 光照构建
+[2022.09.17-14.55.55:730][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.17-14.55.55:732][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.09.17-14.55.56:318][  0]LogLinker: Warning: [AssetLog] E:\mod\恐怖冒险案例\Content\Props道具\Meshes模型\SM_Batteries.uasset: 未能加载“{FileName}”：无法找到文件。
+[2022.09.17-14.55.56:318][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ScavengersLootPack/Materials/MI_CraftParts_01'
+[2022.09.17-14.55.56:391][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube should be resaved to improve async compilation performance.
+[2022.09.17-14.55.56:425][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door should be resaved to improve async compilation performance.
+[2022.09.17-14.55.56:433][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame should be resaved to improve async compilation performance.
+[2022.09.17-14.55.56:466][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level关卡'.
+[2022.09.17-14.55.56:466][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.17-14.55.56:466][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.17-14.55.56:466][  0]LogAIModule: Creating AISystem for world Level关卡
+[2022.09.17-14.55.56:471][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.17-14.55.56:479][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.09.17-14.55.56:479][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.17-14.55.56:480][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.18毫秒。
+[2022.09.17-14.55.56:480][  0]LogFileHelpers: Loading map 'Level关卡' took 0.763
+[2022.09.17-14.55.56:497][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.624
+[2022.09.17-14.55.56:497][  0]LogShaderCompilers: Display: ================================================
+[2022.09.17-14.55.56:497][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.17-14.55.56:497][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.17-14.55.56:497][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.17-14.55.56:497][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.09.17-14.55.56:497][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.17-14.55.56:497][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.17-14.55.56:497][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.17-14.55.56:497][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.17-14.55.56:497][  0]LogShaderCompilers: Display: ================================================
+[2022.09.17-14.55.56:615][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.17-14.55.56:615][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.17-14.55.56:615][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.17-14.55.56:615][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.17-14.55.56:615][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.17-14.55.56:623][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-14.55.56:628][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-14.55.56:638][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-14.55.56:643][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-14.55.56:696][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.09.17-14.55.56:696][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.17-14.55.56:697][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.09.17-14.55.56:697][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.17-14.55.56:697][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.09.17-14.55.56:697][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.17-14.55.56:698][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.09.17-14.55.56:698][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.17-14.55.56:699][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.09.17-14.55.56:700][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.17-14.55.56:700][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.09.17-14.55.56:700][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.17-14.55.56:701][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.09.17-14.55.56:701][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.17-14.55.56:702][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.09.17-14.55.56:702][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.17-14.55.56:703][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.09.17-14.55.56:703][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.17-14.55.56:704][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.09.17-14.55.56:704][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.17-14.55.56:704][  0]LogFeaturePack: Error: Error in Feature pack D:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.09.17-14.55.56:858][  0]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.17-14.55.56:859][  0]LogSlate: Took 0.001422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.09.17-14.55.56:861][  0]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.17-14.55.56:861][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.17-14.55.56:878][  0]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2022.09.17-14.55.57:031][  0]LogStall: Startup...
+[2022.09.17-14.55.57:033][  0]LogStall: Startup complete.
+[2022.09.17-14.55.57:046][  0]LogLoad: (Engine Initialization) Total time: 13.17 seconds
+[2022.09.17-14.55.57:046][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.17-14.55.57:125][  0]LogAssetRegistry: Asset discovery search completed in 9.0014 seconds
+[2022.09.17-14.55.57:136][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.09.17-14.55.57:158][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.17-14.55.58:085][ 69]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.17-14.56.09:198][ 81]Cmd: DELETE
+[2022.09.17-14.56.09:198][ 81]Cmd: ACTOR DELETE
+[2022.09.17-14.56.09:200][ 81]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.17-14.56.09:210][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.09.17-14.56.09:211][ 81]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.09.17-14.56.10:613][212]Cmd: DELETE
+[2022.09.17-14.56.10:613][212]Cmd: ACTOR DELETE
+[2022.09.17-14.56.10:615][212]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.17-14.56.10:622][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.09.17-14.56.10:623][212]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.09.17-14.56.14:133][557]Cmd: DELETE
+[2022.09.17-14.56.14:133][557]Cmd: ACTOR DELETE
+[2022.09.17-14.56.14:135][557]LogEditorActor: Deleted Actor: PostProcessVolume
+[2022.09.17-14.56.14:142][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.17-14.56.14:143][557]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.09.17-14.57.00:318][120]LogSlate: Window '插件' being destroyed
+[2022.09.17-14.57.00:329][120]LogSlate: Window '插件' being destroyed
+[2022.09.17-14.57.00:332][120]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.09.17-14.57.04:173][404]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.17-14.57.04:180][404]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.17-14.57.13:836][162]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props道具/Meshes模型/MSH_Key_08.MSH_Key_08
+[2022.09.17-14.57.13:836][162]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props道具/Meshes模型/MSH_Key_08.MSH_Key_08
+[2022.09.17-14.57.13:837][162]LogActorFactory: Actor Factory spawned StaticMesh /Game/Props道具/Meshes模型/MSH_Key_08.MSH_Key_08 as actor: StaticMeshActor /Game/Maps场景/Level关卡.Level关卡:PersistentLevel.StaticMeshActor_0
+[2022.09.17-14.57.15:085][285]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props道具/Meshes模型/MSH_Key_08.MSH_Key_08
+[2022.09.17-14.57.15:085][285]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props道具/Meshes模型/MSH_Key_08.MSH_Key_08
+[2022.09.17-14.57.15:086][285]LogActorFactory: Actor Factory spawned StaticMesh /Game/Props道具/Meshes模型/MSH_Key_08.MSH_Key_08 as actor: StaticMeshActor /Game/Maps场景/Level关卡.Level关卡:PersistentLevel.StaticMeshActor_2
+[2022.09.17-14.57.28:241][339]LogViewport: Scene viewport resized to 798x902, mode Windowed.
+[2022.09.17-14.57.52:745][ 37]LogDerivedDataCache: C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.951 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.17-14.57.54:099][130]LogStaticMesh: Display: 正在构建静态网格体MSH_Key_08……
+[2022.09.17-14.57.54:099][130]LogStaticMesh: Built static mesh [0.01s] /Game/Props道具/Meshes模型/MSH_Key_08.MSH_Key_08
+[2022.09.17-14.58.10:784][348]LogStaticMesh: Display: 正在构建静态网格体MSH_Key_08……
+[2022.09.17-14.58.10:784][348]LogStaticMesh: Built static mesh [0.00s] /Game/Props道具/Meshes模型/MSH_Key_08.MSH_Key_08
+[2022.09.17-14.58.16:513][762]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props道具/Meshes模型/SM_Battery_AA_01.SM_Battery_AA_01
+[2022.09.17-14.58.16:513][762]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props道具/Meshes模型/SM_Battery_AA_01.SM_Battery_AA_01
+[2022.09.17-14.58.16:514][762]LogActorFactory: Actor Factory spawned StaticMesh /Game/Props道具/Meshes模型/SM_Battery_AA_01.SM_Battery_AA_01 as actor: StaticMeshActor /Game/Maps场景/Level关卡.Level关卡:PersistentLevel.StaticMeshActor_4
+[2022.09.17-14.58.17:607][860]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props道具/Meshes模型/SM_Battery_AA_01.SM_Battery_AA_01
+[2022.09.17-14.58.17:607][860]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props道具/Meshes模型/SM_Battery_AA_01.SM_Battery_AA_01
+[2022.09.17-14.58.17:608][860]LogActorFactory: Actor Factory spawned StaticMesh /Game/Props道具/Meshes模型/SM_Battery_AA_01.SM_Battery_AA_01 as actor: StaticMeshActor /Game/Maps场景/Level关卡.Level关卡:PersistentLevel.StaticMeshActor_5
+[2022.09.17-14.58.58:848][926]LogStaticMesh: Display: 正在构建静态网格体SM_Battery_AA_01……
+[2022.09.17-14.58.58:848][926]LogStaticMesh: Built static mesh [0.01s] /Game/Props道具/Meshes模型/SM_Battery_AA_01.SM_Battery_AA_01
+[2022.09.17-14.59.10:416][767]LogStaticMesh: Display: 正在构建静态网格体SM_Battery_AA_01……
+[2022.09.17-14.59.10:416][767]LogStaticMesh: Built static mesh [0.01s] /Game/Props道具/Meshes模型/SM_Battery_AA_01.SM_Battery_AA_01
+[2022.09.17-14.59.14:129][ 64]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2022.09.17-14.59.42:676][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.09.17-14.59.42:715][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps场景/Level关卡" FILE="E:/mod/恐怖冒险案例/Content/Maps场景/Level关卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.17-14.59.42:724][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.09.17-14.59.42:732][275]LogPackageLocalizationCache: Processed 31 localized package path(s) for 2 prioritized culture(s) in 0.007486 seconds
+[2022.09.17-14.59.42:744][275]LogSavePackage: Moving output files for package: /Game/Maps场景/Level关卡
+[2022.09.17-14.59.42:745][275]LogSavePackage: Moving 'E:/mod/恐怖冒险案例/Saved/Level关卡E09275D84AC0481A8282A9B495B62C7F.tmp' to 'E:/mod/恐怖冒险案例/Content/Maps场景/Level关卡.umap'
+[2022.09.17-14.59.42:757][275]LogFileHelpers: 没有需要保存的新变更！
+[2022.09.17-14.59.42:757][275]LogFileHelpers: Saving map 'Level关卡' took 0.042
+[2022.09.17-14.59.42:778][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints蓝图/Actors物件/Inventory库存/BP_Examination查看" FILE="E:/mod/恐怖冒险案例/Content/Blueprints蓝图/Actors物件/Inventory库存/BP_Examination查看.uasset" SILENT=true
+[2022.09.17-14.59.42:782][275]LogSavePackage: Moving output files for package: /Game/Blueprints蓝图/Actors物件/Inventory库存/BP_Examination查看
+[2022.09.17-14.59.42:783][275]LogSavePackage: Moving 'E:/mod/恐怖冒险案例/Saved/BP_Examination查看3F559AB64889750822B311A78DCB3381.tmp' to 'E:/mod/恐怖冒险案例/Content/Blueprints蓝图/Actors物件/Inventory库存/BP_Examination查看.uasset'
+[2022.09.17-14.59.42:795][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props道具/Meshes模型/MSH_Key_08" FILE="E:/mod/恐怖冒险案例/Content/Props道具/Meshes模型/MSH_Key_08.uasset" SILENT=true
+[2022.09.17-14.59.42:799][275]LogSavePackage: Moving output files for package: /Game/Props道具/Meshes模型/MSH_Key_08
+[2022.09.17-14.59.42:800][275]LogSavePackage: Moving 'E:/mod/恐怖冒险案例/Saved/MSH_Key_08401A0FBA4F8452B3D76F73BD756F2B5C.tmp' to 'E:/mod/恐怖冒险案例/Content/Props道具/Meshes模型/MSH_Key_08.uasset'
+[2022.09.17-14.59.42:827][275]LogSavePackage: Moving output files for package: /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_手电电池
+[2022.09.17-14.59.42:828][275]LogSavePackage: Moving 'E:/mod/恐怖冒险案例/Saved/BP_PickUpActors_手电电池EE67E0904750CCE493147AAA59194187.tmp' to 'E:/mod/恐怖冒险案例/Content/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_手电电池.uasset'
+[2022.09.17-14.59.42:859][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props道具/Meshes模型/SM_Battery_AA_01" FILE="E:/mod/恐怖冒险案例/Content/Props道具/Meshes模型/SM_Battery_AA_01.uasset" SILENT=true
+[2022.09.17-14.59.42:863][275]LogSavePackage: Moving output files for package: /Game/Props道具/Meshes模型/SM_Battery_AA_01
+[2022.09.17-14.59.42:864][275]LogSavePackage: Moving 'E:/mod/恐怖冒险案例/Saved/SM_Battery_AA_017DDFC8164EDFD63EC473F3B1AE67500C.tmp' to 'E:/mod/恐怖冒险案例/Content/Props道具/Meshes模型/SM_Battery_AA_01.uasset'
+[2022.09.17-14.59.42:884][275]LogSavePackage: Moving output files for package: /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙
+[2022.09.17-14.59.42:885][275]LogSavePackage: Moving 'E:/mod/恐怖冒险案例/Saved/BP_PickUpActors_钥匙D3BF5F024BFCFA17C00DC197C766152A.tmp' to 'E:/mod/恐怖冒险案例/Content/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙.uasset'
+[2022.09.17-14.59.42:906][275]AssetCheck: New page: 资产保存：多个资产
+[2022.09.17-14.59.42:906][275]LogContentValidation: Display: 正在验证StaticMesh /Game/Props道具/Meshes模型/MSH_Key_08.MSH_Key_08
+[2022.09.17-14.59.42:906][275]LogContentValidation: Display: 正在验证Blueprint /Game/Blueprints蓝图/Actors物件/Inventory库存/BP_Examination查看.BP_Examination查看
+[2022.09.17-14.59.42:907][275]LogContentValidation: Display: 正在验证Blueprint /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_手电电池.BP_PickUpActors_手电电池
+[2022.09.17-14.59.42:907][275]LogContentValidation: Display: 正在验证StaticMesh /Game/Props道具/Meshes模型/SM_Battery_AA_01.SM_Battery_AA_01
+[2022.09.17-14.59.42:907][275]LogContentValidation: Display: 正在验证Blueprint /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙.BP_PickUpActors_钥匙
+[2022.09.17-14.59.42:907][275]LogContentValidation: Display: 正在验证World /Game/Maps场景/Level关卡.Level关卡
+[2022.09.17-14.59.46:238][517]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙.BP_PickUpActors_钥匙
+[2022.09.17-14.59.46:238][517]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.17-14.59.49:116][732]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.09.17-14.59.49:116][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.17-14.59.49:151][732]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙.BP_PickUpActors_钥匙
+[2022.09.17-14.59.49:151][732]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.17-14.59.49:563][732]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.17-15.00.03:893][226]BlueprintLog: New page: 编译BP_PickUpActors_钥匙
+[2022.09.17-15.00.03:944][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.09.17-15.00.04:454][267]LogSavePackage: Moving output files for package: /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙
+[2022.09.17-15.00.04:455][267]LogSavePackage: Moving 'E:/mod/恐怖冒险案例/Saved/BP_PickUpActors_钥匙D6CD54824E3D177A1310EBBAE8FC528C.tmp' to 'E:/mod/恐怖冒险案例/Content/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙.uasset'
+[2022.09.17-15.00.04:471][267]AssetCheck: New page: 资产保存：BP_PickUpActors_钥匙
+[2022.09.17-15.00.04:471][267]LogContentValidation: Display: 正在验证Blueprint /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙.BP_PickUpActors_钥匙
+[2022.09.17-15.00.11:641][804]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_手电电池.BP_PickUpActors_手电电池
+[2022.09.17-15.00.11:642][804]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.17-15.00.34:752][325]BlueprintLog: New page: 编译BP_PickUpActors_钥匙
+[2022.09.17-15.00.34:807][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.09.17-15.00.35:456][378]LogSavePackage: Moving output files for package: /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙
+[2022.09.17-15.00.35:457][378]LogSavePackage: Moving 'E:/mod/恐怖冒险案例/Saved/BP_PickUpActors_钥匙989407FC4EAC8731C729CA9A34879A08.tmp' to 'E:/mod/恐怖冒险案例/Content/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙.uasset'
+[2022.09.17-15.00.35:476][378]AssetCheck: New page: 资产保存：BP_PickUpActors_钥匙
+[2022.09.17-15.00.35:476][378]LogContentValidation: Display: 正在验证Blueprint /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙.BP_PickUpActors_钥匙
+[2022.09.17-15.00.37:247][575]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.09.17-15.00.37:247][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.17-15.00.37:280][575]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_手电电池.BP_PickUpActors_手电电池
+[2022.09.17-15.00.37:281][575]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.17-15.00.46:812][409]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_手电电池.BP_PickUpActors_手电电池_C
+[2022.09.17-15.00.46:812][409]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_手电电池.BP_PickUpActors_手电电池_C
+[2022.09.17-15.00.46:815][409]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_手电电池.BP_PickUpActors_手电电池 as actor: BP_PickUpActors_手电电池_C /Game/Maps场景/Level关卡.Level关卡:PersistentLevel.BP_PickUpActors_手电电池_C_1
+[2022.09.17-15.00.46:817][409]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_手电电池.BP_PickUpActors_手电电池 as actor: BP_PickUpActors_手电电池_C /Game/Maps场景/Level关卡.Level关卡:PersistentLevel.BP_PickUpActors_手电电池_C_1
+[2022.09.17-15.00.48:038][491]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_手电电池.BP_PickUpActors_手电电池_C
+[2022.09.17-15.00.48:038][491]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_手电电池.BP_PickUpActors_手电电池_C
+[2022.09.17-15.00.48:041][491]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_手电电池.BP_PickUpActors_手电电池 as actor: BP_PickUpActors_手电电池_C /Game/Maps场景/Level关卡.Level关卡:PersistentLevel.BP_PickUpActors_手电电池_C_2
+[2022.09.17-15.00.48:043][491]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_手电电池.BP_PickUpActors_手电电池 as actor: BP_PickUpActors_手电电池_C /Game/Maps场景/Level关卡.Level关卡:PersistentLevel.BP_PickUpActors_手电电池_C_2
+[2022.09.17-15.00.49:195][573]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙.BP_PickUpActors_钥匙_C
+[2022.09.17-15.00.49:195][573]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙.BP_PickUpActors_钥匙_C
+[2022.09.17-15.00.49:197][573]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙.BP_PickUpActors_钥匙 as actor: BP_PickUpActors_钥匙_C /Game/Maps场景/Level关卡.Level关卡:PersistentLevel.BP_PickUpActors_钥匙_C_0
+[2022.09.17-15.00.49:198][573]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙.BP_PickUpActors_钥匙 as actor: BP_PickUpActors_钥匙_C /Game/Maps场景/Level关卡.Level关卡:PersistentLevel.BP_PickUpActors_钥匙_C_0
+[2022.09.17-15.00.50:512][678]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙.BP_PickUpActors_钥匙_C
+[2022.09.17-15.00.50:512][678]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙.BP_PickUpActors_钥匙_C
+[2022.09.17-15.00.50:515][678]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙.BP_PickUpActors_钥匙 as actor: BP_PickUpActors_钥匙_C /Game/Maps场景/Level关卡.Level关卡:PersistentLevel.BP_PickUpActors_钥匙_C_1
+[2022.09.17-15.00.50:517][678]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙.BP_PickUpActors_钥匙 as actor: BP_PickUpActors_钥匙_C /Game/Maps场景/Level关卡.Level关卡:PersistentLevel.BP_PickUpActors_钥匙_C_1
+[2022.09.17-15.01.14:157][784]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2022.09.17-15.01.14:170][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.17-15.01.14:170][784]PIE: New page: PIE会话：Level关卡（2022年9月18日 上午7:01:14）
+[2022.09.17-15.01.14:174][784]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.09.17-15.01.14:174][784]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.09.17-15.01.14:191][784]LogPlayLevel: Creating play world package: /Game/Maps场景/UEDPIE_0_Level关卡
+[2022.09.17-15.01.14:198][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006839s)
+[2022.09.17-15.01.14:198][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps场景/Level关卡.Level关卡 to /Game/Maps场景/UEDPIE_0_Level关卡.Level关卡 (0.007200s)
+[2022.09.17-15.01.14:198][784]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.17-15.01.14:198][784]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.17-15.01.14:199][784]LogAIModule: Creating AISystem for world Level关卡
+[2022.09.17-15.01.14:199][784]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2022.09.17-15.01.14:241][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.09.17-15.01.14:243][784]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.09.17-15.01.14:243][784]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.17-15.01.14:243][784]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.17-15.01.14:243][784]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.17-15.01.14:243][784]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.17-15.01.14:243][784]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.09.17-15.01.14:243][784]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.17-15.01.14:243][784]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.09.17-15.01.14:243][784]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.17-15.01.14:244][784]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.17-15.01.14:244][784]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.17-15.01.14:244][784]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.17-15.01.14:246][784]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.17-15.01.14:327][784]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (THX Spatial - Synapse)
+[2022.09.17-15.01.14:328][784]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.17-15.01.14:328][784]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.17-15.01.14:328][784]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.17-15.01.14:329][784]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.09.17-15.01.14:329][784]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2022.09.17-15.01.14:331][784]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.09.17-15.01.14:331][784]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.09.17-15.01.14:331][784]LogInit: FAudioDevice initialized.
+[2022.09.17-15.01.14:331][784]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level关卡'.
+[2022.09.17-15.01.14:401][784]LogLoad: Game class is 'L1_GameMode游戏模式_C'
+[2022.09.17-15.01.14:404][784]LogWorld: Bringing World /Game/Maps场景/UEDPIE_0_Level关卡.Level关卡 up for play (max tick rate 0) at 2022.09.17-23.01.14
+[2022.09.17-15.01.14:405][784]LogWorld: Bringing up level for play took: 0.003134
+[2022.09.17-15.01.14:408][784]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.09.17-15.01.14:470][784]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.01.14:471][784]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.01.14:471][784]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.01.14:471][784]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.01.14:471][784]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.01.14:471][784]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.01.14:471][784]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.01.14:471][784]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.01.14:472][784]PIE: 登陆的服务器
+[2022.09.17-15.01.14:473][784]PIE: PIE总开始时间：0.309秒。
+[2022.09.17-15.01.19:630][151]LogBlueprintUserMessages: [BPC_Movement移动] 99.0
+[2022.09.17-15.01.19:734][160]LogBlueprintUserMessages: [BPC_Movement移动] 98.0
+[2022.09.17-15.01.19:834][169]LogBlueprintUserMessages: [BPC_Movement移动] 97.0
+[2022.09.17-15.01.19:928][177]LogBlueprintUserMessages: [BPC_Movement移动] 96.0
+[2022.09.17-15.01.20:033][186]LogBlueprintUserMessages: [BPC_Movement移动] 95.0
+[2022.09.17-15.01.20:126][194]LogBlueprintUserMessages: [BPC_Movement移动] 94.0
+[2022.09.17-15.01.20:229][203]LogBlueprintUserMessages: [BPC_Movement移动] 93.0
+[2022.09.17-15.01.20:331][212]LogBlueprintUserMessages: [BPC_Movement移动] 92.0
+[2022.09.17-15.01.20:434][221]LogBlueprintUserMessages: [BPC_Movement移动] 91.0
+[2022.09.17-15.01.20:531][229]LogBlueprintUserMessages: [BPC_Movement移动] 90.0
+[2022.09.17-15.01.20:637][238]LogBlueprintUserMessages: [BPC_Movement移动] 89.0
+[2022.09.17-15.01.22:900][431]LogBlueprintUserMessages: [BPC_Movement移动] 88.0
+[2022.09.17-15.01.23:002][440]LogBlueprintUserMessages: [BPC_Movement移动] 87.0
+[2022.09.17-15.01.23:096][448]LogBlueprintUserMessages: [BPC_Movement移动] 86.0
+[2022.09.17-15.01.23:198][457]LogBlueprintUserMessages: [BPC_Movement移动] 85.0
+[2022.09.17-15.01.23:298][465]LogBlueprintUserMessages: [BPC_Movement移动] 84.0
+[2022.09.17-15.01.23:408][474]LogBlueprintUserMessages: [BPC_Movement移动] 83.0
+[2022.09.17-15.01.23:500][482]LogBlueprintUserMessages: [BPC_Movement移动] 82.0
+[2022.09.17-15.01.23:604][491]LogBlueprintUserMessages: [BPC_Movement移动] 81.0
+[2022.09.17-15.01.23:707][500]LogBlueprintUserMessages: [BPC_Movement移动] 80.0
+[2022.09.17-15.01.23:798][508]LogBlueprintUserMessages: [BPC_Movement移动] 79.0
+[2022.09.17-15.01.23:900][517]LogBlueprintUserMessages: [BPC_Movement移动] 78.0
+[2022.09.17-15.01.24:001][526]LogBlueprintUserMessages: [BPC_Movement移动] 77.0
+[2022.09.17-15.01.24:101][535]LogBlueprintUserMessages: [BPC_Movement移动] 76.0
+[2022.09.17-15.01.24:206][544]LogBlueprintUserMessages: [BPC_Movement移动] 75.0
+[2022.09.17-15.01.24:296][552]LogBlueprintUserMessages: [BPC_Movement移动] 74.0
+[2022.09.17-15.01.24:400][561]LogBlueprintUserMessages: [BPC_Movement移动] 73.0
+[2022.09.17-15.01.24:501][570]LogBlueprintUserMessages: [BPC_Movement移动] 72.0
+[2022.09.17-15.01.24:601][579]LogBlueprintUserMessages: [BPC_Movement移动] 71.0
+[2022.09.17-15.01.24:706][588]LogBlueprintUserMessages: [BPC_Movement移动] 70.0
+[2022.09.17-15.01.24:804][597]LogBlueprintUserMessages: [BPC_Movement移动] 69.0
+[2022.09.17-15.01.24:904][606]LogBlueprintUserMessages: [BPC_Movement移动] 68.0
+[2022.09.17-15.01.25:001][615]LogBlueprintUserMessages: [BPC_Movement移动] 67.0
+[2022.09.17-15.01.25:100][624]LogBlueprintUserMessages: [BPC_Movement移动] 66.0
+[2022.09.17-15.01.25:199][633]LogBlueprintUserMessages: [BPC_Movement移动] 65.0
+[2022.09.17-15.01.25:300][642]LogBlueprintUserMessages: [BPC_Movement移动] 64.0
+[2022.09.17-15.01.25:399][651]LogBlueprintUserMessages: [BPC_Movement移动] 63.0
+[2022.09.17-15.01.30:487][110]LogBlueprintUserMessages: [BPC_Movement移动] 64.0
+[2022.09.17-15.01.30:518][113]LogBlueprintUserMessages: [BPC_Movement移动] 65.0
+[2022.09.17-15.01.30:545][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-15.01.30:545][113]LogWorld: BeginTearingDown for /Game/Maps场景/UEDPIE_0_Level关卡
+[2022.09.17-15.01.30:545][113]LogWorld: UWorld::CleanupWorld for Level关卡, bSessionEnded=true, bCleanupResources=true
+[2022.09.17-15.01.30:546][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.17-15.01.30:563][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.17-15.01.30:570][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.17-15.01.30:611][113]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.17-15.01.30:611][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.09.17-15.01.30:612][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.09.17-15.01.30:618][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-15.01.30:642][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.09.17-15.01.30:677][114]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.09.17-15.01.46:610][344]LogViewport: Scene viewport resized to 798x902, mode Windowed.
+[2022.09.17-15.01.59:971][246]LogStaticMesh: Display: 正在构建静态网格体SM_Battery_AA_01……
+[2022.09.17-15.01.59:971][246]LogStaticMesh: Built static mesh [0.01s] /Game/Props道具/Meshes模型/SM_Battery_AA_01.SM_Battery_AA_01
+[2022.09.17-15.02.04:644][585]Cmd: TRANSACTION UNDO
+[2022.09.17-15.02.04:644][585]LogEditorTransaction: Undo 变形网格体
+[2022.09.17-15.02.13:218][141]LogStaticMesh: Display: 正在构建静态网格体SM_Battery_AA_01……
+[2022.09.17-15.02.13:218][141]LogStaticMesh: Built static mesh [0.01s] /Game/Props道具/Meshes模型/SM_Battery_AA_01.SM_Battery_AA_01
+[2022.09.17-15.02.19:370][586]LogStaticMesh: Display: 正在构建静态网格体SM_Battery_AA_01……
+[2022.09.17-15.02.19:370][586]LogStaticMesh: Built static mesh [0.01s] /Game/Props道具/Meshes模型/SM_Battery_AA_01.SM_Battery_AA_01
+[2022.09.17-15.02.30:404][367]LogStaticMesh: Display: 正在构建静态网格体MSH_Key_08……
+[2022.09.17-15.02.30:404][367]LogStaticMesh: Built static mesh [0.01s] /Game/Props道具/Meshes模型/MSH_Key_08.MSH_Key_08
+[2022.09.17-15.02.37:302][867]LogStaticMesh: Display: 正在构建静态网格体MSH_Key_08……
+[2022.09.17-15.02.37:302][867]LogStaticMesh: Built static mesh [0.01s] /Game/Props道具/Meshes模型/MSH_Key_08.MSH_Key_08
+[2022.09.17-15.02.48:478][699]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2022.09.17-15.02.53:671][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.09.17-15.02.53:708][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps场景/Level关卡" FILE="E:/mod/恐怖冒险案例/Content/Maps场景/Level关卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.17-15.02.53:748][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.09.17-15.02.53:763][ 36]LogSavePackage: Moving output files for package: /Game/Maps场景/Level关卡
+[2022.09.17-15.02.53:765][ 36]LogSavePackage: Moving 'E:/mod/恐怖冒险案例/Saved/Level关卡5D453D2A475EE2754A097AB25D1883BA.tmp' to 'E:/mod/恐怖冒险案例/Content/Maps场景/Level关卡.umap'
+[2022.09.17-15.02.53:776][ 36]LogFileHelpers: 没有需要保存的新变更！
+[2022.09.17-15.02.53:776][ 36]LogFileHelpers: Saving map 'Level关卡' took 0.068
+[2022.09.17-15.02.53:776][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints蓝图/Actors物件/Inventory库存/BP_Examination查看" FILE="E:/mod/恐怖冒险案例/Content/Blueprints蓝图/Actors物件/Inventory库存/BP_Examination查看.uasset" SILENT=true
+[2022.09.17-15.02.53:779][ 36]LogSavePackage: Moving output files for package: /Game/Blueprints蓝图/Actors物件/Inventory库存/BP_Examination查看
+[2022.09.17-15.02.53:781][ 36]LogSavePackage: Moving 'E:/mod/恐怖冒险案例/Saved/BP_Examination查看79E2A30140F8229DA3B1FA9983E1027F.tmp' to 'E:/mod/恐怖冒险案例/Content/Blueprints蓝图/Actors物件/Inventory库存/BP_Examination查看.uasset'
+[2022.09.17-15.02.53:794][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props道具/Meshes模型/MSH_Key_08" FILE="E:/mod/恐怖冒险案例/Content/Props道具/Meshes模型/MSH_Key_08.uasset" SILENT=true
+[2022.09.17-15.02.53:798][ 36]LogSavePackage: Moving output files for package: /Game/Props道具/Meshes模型/MSH_Key_08
+[2022.09.17-15.02.53:799][ 36]LogSavePackage: Moving 'E:/mod/恐怖冒险案例/Saved/MSH_Key_08BDA3C526479ABE525025F6AC99B65015.tmp' to 'E:/mod/恐怖冒险案例/Content/Props道具/Meshes模型/MSH_Key_08.uasset'
+[2022.09.17-15.02.53:804][ 36]LogSavePackage: Moving output files for package: /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_手电电池
+[2022.09.17-15.02.53:805][ 36]LogSavePackage: Moving 'E:/mod/恐怖冒险案例/Saved/BP_PickUpActors_手电电池3909A8F94D524E3CF10304A856F63107.tmp' to 'E:/mod/恐怖冒险案例/Content/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_手电电池.uasset'
+[2022.09.17-15.02.53:815][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props道具/Meshes模型/SM_Battery_AA_01" FILE="E:/mod/恐怖冒险案例/Content/Props道具/Meshes模型/SM_Battery_AA_01.uasset" SILENT=true
+[2022.09.17-15.02.53:819][ 36]LogSavePackage: Moving output files for package: /Game/Props道具/Meshes模型/SM_Battery_AA_01
+[2022.09.17-15.02.53:820][ 36]LogSavePackage: Moving 'E:/mod/恐怖冒险案例/Saved/SM_Battery_AA_015244337A4C507533B54955976C1F3013.tmp' to 'E:/mod/恐怖冒险案例/Content/Props道具/Meshes模型/SM_Battery_AA_01.uasset'
+[2022.09.17-15.02.53:826][ 36]LogSavePackage: Moving output files for package: /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙
+[2022.09.17-15.02.53:827][ 36]LogSavePackage: Moving 'E:/mod/恐怖冒险案例/Saved/BP_PickUpActors_钥匙5B4A869D47752EE2172D8FAEC88B23A8.tmp' to 'E:/mod/恐怖冒险案例/Content/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙.uasset'
+[2022.09.17-15.02.53:855][ 36]AssetCheck: New page: 资产保存：多个资产
+[2022.09.17-15.02.53:856][ 36]LogContentValidation: Display: 正在验证StaticMesh /Game/Props道具/Meshes模型/MSH_Key_08.MSH_Key_08
+[2022.09.17-15.02.53:856][ 36]LogContentValidation: Display: 正在验证Blueprint /Game/Blueprints蓝图/Actors物件/Inventory库存/BP_Examination查看.BP_Examination查看
+[2022.09.17-15.02.53:856][ 36]LogContentValidation: Display: 正在验证Blueprint /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_手电电池.BP_PickUpActors_手电电池
+[2022.09.17-15.02.53:856][ 36]LogContentValidation: Display: 正在验证StaticMesh /Game/Props道具/Meshes模型/SM_Battery_AA_01.SM_Battery_AA_01
+[2022.09.17-15.02.53:856][ 36]LogContentValidation: Display: 正在验证Blueprint /Game/Blueprints蓝图/Actors物件/Inventory库存/PickUpActors拾取物件/BP_PickUpActors_钥匙.BP_PickUpActors_钥匙
+[2022.09.17-15.02.53:856][ 36]LogContentValidation: Display: 正在验证World /Game/Maps场景/Level关卡.Level关卡
+[2022.09.17-15.02.55:035][126]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2022.09.17-15.02.55:042][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.17-15.02.55:043][126]PIE: New page: PIE会话：Level关卡（2022年9月18日 上午7:02:55）
+[2022.09.17-15.02.55:043][126]LogPlayLevel: Creating play world package: /Game/Maps场景/UEDPIE_0_Level关卡
+[2022.09.17-15.02.55:047][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004153s)
+[2022.09.17-15.02.55:047][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps场景/Level关卡.Level关卡 to /Game/Maps场景/UEDPIE_0_Level关卡.Level关卡 (0.004257s)
+[2022.09.17-15.02.55:047][126]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.17-15.02.55:047][126]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.17-15.02.55:048][126]LogAIModule: Creating AISystem for world Level关卡
+[2022.09.17-15.02.55:048][126]LogPlayLevel: PIE: World Init took: (0.001427s)
+[2022.09.17-15.02.55:091][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.09.17-15.02.55:093][126]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.09.17-15.02.55:093][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.17-15.02.55:093][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.17-15.02.55:093][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.17-15.02.55:093][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.17-15.02.55:093][126]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.09.17-15.02.55:093][126]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.17-15.02.55:093][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.09.17-15.02.55:093][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.17-15.02.55:094][126]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.17-15.02.55:094][126]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.17-15.02.55:094][126]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.17-15.02.55:096][126]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.17-15.02.55:175][126]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (THX Spatial - Synapse)
+[2022.09.17-15.02.55:175][126]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.17-15.02.55:175][126]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.17-15.02.55:175][126]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.17-15.02.55:176][126]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.09.17-15.02.55:176][126]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2022.09.17-15.02.55:177][126]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.09.17-15.02.55:177][126]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.09.17-15.02.55:177][126]LogInit: FAudioDevice initialized.
+[2022.09.17-15.02.55:178][126]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level关卡'.
+[2022.09.17-15.02.55:191][126]LogLoad: Game class is 'L1_GameMode游戏模式_C'
+[2022.09.17-15.02.55:193][126]LogWorld: Bringing World /Game/Maps场景/UEDPIE_0_Level关卡.Level关卡 up for play (max tick rate 0) at 2022.09.17-23.02.55
+[2022.09.17-15.02.55:193][126]LogWorld: Bringing up level for play took: 0.001789
+[2022.09.17-15.02.55:196][126]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.09.17-15.02.55:199][126]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.02.55:199][126]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.02.55:199][126]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.02.55:199][126]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.02.55:199][126]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.02.55:199][126]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.02.55:199][126]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.02.55:199][126]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.02.55:199][126]PIE: 登陆的服务器
+[2022.09.17-15.02.55:200][126]PIE: PIE总开始时间：0.159秒。
+[2022.09.17-15.02.59:704][496]LogBlueprintUserMessages: [BPC_Movement移动] 99.0
+[2022.09.17-15.02.59:808][505]LogBlueprintUserMessages: [BPC_Movement移动] 98.0
+[2022.09.17-15.02.59:902][513]LogBlueprintUserMessages: [BPC_Movement移动] 97.0
+[2022.09.17-15.03.00:008][522]LogBlueprintUserMessages: [BPC_Movement移动] 96.0
+[2022.09.17-15.03.00:100][530]LogBlueprintUserMessages: [BPC_Movement移动] 95.0
+[2022.09.17-15.03.00:204][539]LogBlueprintUserMessages: [BPC_Movement移动] 94.0
+[2022.09.17-15.03.00:307][548]LogBlueprintUserMessages: [BPC_Movement移动] 93.0
+[2022.09.17-15.03.00:410][557]LogBlueprintUserMessages: [BPC_Movement移动] 92.0
+[2022.09.17-15.03.00:501][565]LogBlueprintUserMessages: [BPC_Movement移动] 91.0
+[2022.09.17-15.03.00:604][574]LogBlueprintUserMessages: [BPC_Movement移动] 90.0
+[2022.09.17-15.03.00:706][583]LogBlueprintUserMessages: [BPC_Movement移动] 89.0
+[2022.09.17-15.03.00:804][592]LogBlueprintUserMessages: [BPC_Movement移动] 88.0
+[2022.09.17-15.03.00:910][601]LogBlueprintUserMessages: [BPC_Movement移动] 87.0
+[2022.09.17-15.03.02:455][728]LogBlueprintUserMessages: [BPC_Movement移动] 86.0
+[2022.09.17-15.03.02:552][736]LogBlueprintUserMessages: [BPC_Movement移动] 85.0
+[2022.09.17-15.03.02:652][745]LogBlueprintUserMessages: [BPC_Movement移动] 84.0
+[2022.09.17-15.03.04:391][891]LogBlueprintUserMessages: [BPC_Movement移动] 83.0
+[2022.09.17-15.03.04:488][898]LogBlueprintUserMessages: [BPC_Movement移动] 82.0
+[2022.09.17-15.03.04:586][906]LogBlueprintUserMessages: [BPC_Movement移动] 81.0
+[2022.09.17-15.03.04:680][914]LogBlueprintUserMessages: [BPC_Movement移动] 80.0
+[2022.09.17-15.03.04:779][922]LogBlueprintUserMessages: [BPC_Movement移动] 79.0
+[2022.09.17-15.03.04:881][931]LogBlueprintUserMessages: [BPC_Movement移动] 78.0
+[2022.09.17-15.03.04:981][940]LogBlueprintUserMessages: [BPC_Movement移动] 77.0
+[2022.09.17-15.03.05:081][949]LogBlueprintUserMessages: [BPC_Movement移动] 76.0
+[2022.09.17-15.03.05:187][958]LogBlueprintUserMessages: [BPC_Movement移动] 75.0
+[2022.09.17-15.03.05:288][966]LogBlueprintUserMessages: [BPC_Movement移动] 74.0
+[2022.09.17-15.03.05:383][974]LogBlueprintUserMessages: [BPC_Movement移动] 73.0
+[2022.09.17-15.03.08:399][245]LogBlueprintUserMessages: [BPC_Movement移动] 72.0
+[2022.09.17-15.03.08:508][253]LogBlueprintUserMessages: [BPC_Movement移动] 71.0
+[2022.09.17-15.03.08:604][261]LogBlueprintUserMessages: [BPC_Movement移动] 70.0
+[2022.09.17-15.03.08:699][269]LogBlueprintUserMessages: [BPC_Movement移动] 69.0
+[2022.09.17-15.03.08:800][278]LogBlueprintUserMessages: [BPC_Movement移动] 68.0
+[2022.09.17-15.03.08:902][287]LogBlueprintUserMessages: [BPC_Movement移动] 67.0
+[2022.09.17-15.03.08:999][295]LogBlueprintUserMessages: [BPC_Movement移动] 66.0
+[2022.09.17-15.03.09:102][304]LogBlueprintUserMessages: [BPC_Movement移动] 65.0
+[2022.09.17-15.03.09:202][313]LogBlueprintUserMessages: [BPC_Movement移动] 64.0
+[2022.09.17-15.03.09:307][322]LogBlueprintUserMessages: [BPC_Movement移动] 63.0
+[2022.09.17-15.03.09:401][330]LogBlueprintUserMessages: [BPC_Movement移动] 62.0
+[2022.09.17-15.03.09:508][338]LogBlueprintUserMessages: [BPC_Movement移动] 61.0
+[2022.09.17-15.03.09:607][345]LogBlueprintUserMessages: [BPC_Movement移动] 60.0
+[2022.09.17-15.03.09:707][353]LogBlueprintUserMessages: [BPC_Movement移动] 59.0
+[2022.09.17-15.03.09:798][360]LogBlueprintUserMessages: [BPC_Movement移动] 58.0
+[2022.09.17-15.03.11:377][491]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.17-15.03.11:378][491]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.09.17-15.03.11:378][491]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.09.17-15.03.14:868][798]LogBlueprintUserMessages: [BPC_Movement移动] 59.0
+[2022.09.17-15.03.14:903][801]LogBlueprintUserMessages: [BPC_Movement移动] 60.0
+[2022.09.17-15.03.14:928][803]LogBlueprintUserMessages: [BPC_Movement移动] 61.0
+[2022.09.17-15.03.14:964][806]LogBlueprintUserMessages: [BPC_Movement移动] 62.0
+[2022.09.17-15.03.14:987][808]LogBlueprintUserMessages: [BPC_Movement移动] 63.0
+[2022.09.17-15.03.14:999][809]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.09.17-15.03.14:999][809]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.09.17-15.03.15:022][811]LogBlueprintUserMessages: [BPC_Movement移动] 64.0
+[2022.09.17-15.03.15:047][813]LogBlueprintUserMessages: [BPC_Movement移动] 65.0
+[2022.09.17-15.03.15:080][816]LogBlueprintUserMessages: [BPC_Movement移动] 66.0
+[2022.09.17-15.03.15:105][818]LogBlueprintUserMessages: [BPC_Movement移动] 67.0
+[2022.09.17-15.03.15:142][821]LogBlueprintUserMessages: [BPC_Movement移动] 68.0
+[2022.09.17-15.03.15:166][823]LogBlueprintUserMessages: [BPC_Movement移动] 69.0
+[2022.09.17-15.03.15:198][826]LogBlueprintUserMessages: [BPC_Movement移动] 70.0
+[2022.09.17-15.03.15:231][829]LogBlueprintUserMessages: [BPC_Movement移动] 71.0
+[2022.09.17-15.03.15:253][831]LogBlueprintUserMessages: [BPC_Movement移动] 72.0
+[2022.09.17-15.03.15:287][834]LogBlueprintUserMessages: [BPC_Movement移动] 73.0
+[2022.09.17-15.03.15:323][837]LogBlueprintUserMessages: [BPC_Movement移动] 74.0
+[2022.09.17-15.03.15:348][839]LogBlueprintUserMessages: [BPC_Movement移动] 75.0
+[2022.09.17-15.03.15:383][842]LogBlueprintUserMessages: [BPC_Movement移动] 76.0
+[2022.09.17-15.03.15:409][844]LogBlueprintUserMessages: [BPC_Movement移动] 77.0
+[2022.09.17-15.03.15:432][846]LogBlueprintUserMessages: [BPC_Movement移动] 78.0
+[2022.09.17-15.03.15:472][849]LogBlueprintUserMessages: [BPC_Movement移动] 79.0
+[2022.09.17-15.03.15:496][851]LogBlueprintUserMessages: [BPC_Movement移动] 80.0
+[2022.09.17-15.03.15:530][854]LogBlueprintUserMessages: [BPC_Movement移动] 81.0
+[2022.09.17-15.03.15:554][856]LogBlueprintUserMessages: [BPC_Movement移动] 82.0
+[2022.09.17-15.03.15:593][859]LogBlueprintUserMessages: [BPC_Movement移动] 83.0
+[2022.09.17-15.03.15:618][861]LogBlueprintUserMessages: [BPC_Movement移动] 84.0
+[2022.09.17-15.03.15:642][863]LogBlueprintUserMessages: [BPC_Movement移动] 85.0
+[2022.09.17-15.03.15:678][866]LogBlueprintUserMessages: [BPC_Movement移动] 86.0
+[2022.09.17-15.03.15:703][868]LogBlueprintUserMessages: [BPC_Movement移动] 87.0
+[2022.09.17-15.03.15:743][871]LogBlueprintUserMessages: [BPC_Movement移动] 88.0
+[2022.09.17-15.03.15:767][873]LogBlueprintUserMessages: [BPC_Movement移动] 89.0
+[2022.09.17-15.03.15:801][876]LogBlueprintUserMessages: [BPC_Movement移动] 90.0
+[2022.09.17-15.03.15:824][878]LogBlueprintUserMessages: [BPC_Movement移动] 91.0
+[2022.09.17-15.03.15:860][881]LogBlueprintUserMessages: [BPC_Movement移动] 92.0
+[2022.09.17-15.03.15:887][883]LogBlueprintUserMessages: [BPC_Movement移动] 93.0
+[2022.09.17-15.03.15:912][885]LogBlueprintUserMessages: [BPC_Movement移动] 94.0
+[2022.09.17-15.03.15:955][888]LogBlueprintUserMessages: [BPC_Movement移动] 95.0
+[2022.09.17-15.03.15:985][890]LogBlueprintUserMessages: [BPC_Movement移动] 96.0
+[2022.09.17-15.03.16:007][892]LogBlueprintUserMessages: [BPC_Movement移动] 97.0
+[2022.09.17-15.03.16:048][895]LogBlueprintUserMessages: [BPC_Movement移动] 98.0
+[2022.09.17-15.03.16:069][897]LogBlueprintUserMessages: [BPC_Movement移动] 99.0
+[2022.09.17-15.03.16:096][899]LogBlueprintUserMessages: [BPC_Movement移动] 100.0
+[2022.09.17-15.03.16:762][957]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.17-15.03.16:762][957]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.09.17-15.03.27:121][922]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.09.17-15.03.27:121][922]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.09.17-15.03.30:633][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-15.03.30:633][238]LogWorld: BeginTearingDown for /Game/Maps场景/UEDPIE_0_Level关卡
+[2022.09.17-15.03.30:634][238]LogWorld: UWorld::CleanupWorld for Level关卡, bSessionEnded=true, bCleanupResources=true
+[2022.09.17-15.03.30:634][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.17-15.03.30:649][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.17-15.03.30:658][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.17-15.03.30:698][238]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.17-15.03.30:698][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.09.17-15.03.30:699][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.09.17-15.03.30:706][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-15.03.30:709][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.09.17-15.03.30:756][239]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.09.17-15.03.44:928][291]LogEditorViewport: Clicking Background
+[2022.09.17-15.03.47:160][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps场景/Level关卡" FILE="E:/mod/恐怖冒险案例/Content/Maps场景/Level关卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.17-15.03.47:203][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.09.17-15.03.47:216][474]LogSavePackage: Moving output files for package: /Game/Maps场景/Level关卡
+[2022.09.17-15.03.47:217][474]LogSavePackage: Moving 'E:/mod/恐怖冒险案例/Saved/Level关卡05F026B5486BC5AE11D58A826BBFDCA9.tmp' to 'E:/mod/恐怖冒险案例/Content/Maps场景/Level关卡.umap'
+[2022.09.17-15.03.47:228][474]LogFileHelpers: 没有需要保存的新变更！
+[2022.09.17-15.03.47:242][474]AssetCheck: New page: 资产保存：Level关卡
+[2022.09.17-15.03.47:242][474]LogContentValidation: Display: 正在验证World /Game/Maps场景/Level关卡.Level关卡
+[2022.09.17-15.03.48:932][611]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2022.09.17-15.03.48:939][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.17-15.03.48:939][611]PIE: New page: PIE会话：Level关卡（2022年9月18日 上午7:03:48）
+[2022.09.17-15.03.48:961][611]LogPlayLevel: Creating play world package: /Game/Maps场景/UEDPIE_0_Level关卡
+[2022.09.17-15.03.48:965][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003384s)
+[2022.09.17-15.03.48:965][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps场景/Level关卡.Level关卡 to /Game/Maps场景/UEDPIE_0_Level关卡.Level关卡 (0.003542s)
+[2022.09.17-15.03.48:965][611]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.17-15.03.48:965][611]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.17-15.03.48:965][611]LogAIModule: Creating AISystem for world Level关卡
+[2022.09.17-15.03.48:966][611]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2022.09.17-15.03.49:003][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.09.17-15.03.49:004][611]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.09.17-15.03.49:004][611]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.17-15.03.49:004][611]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.17-15.03.49:004][611]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.17-15.03.49:004][611]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.17-15.03.49:004][611]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.09.17-15.03.49:004][611]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.17-15.03.49:004][611]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.09.17-15.03.49:004][611]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.17-15.03.49:005][611]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.17-15.03.49:005][611]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.17-15.03.49:005][611]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.17-15.03.49:007][611]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.17-15.03.49:085][611]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (THX Spatial - Synapse)
+[2022.09.17-15.03.49:085][611]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.17-15.03.49:085][611]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.17-15.03.49:085][611]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.17-15.03.49:085][611]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.09.17-15.03.49:085][611]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2022.09.17-15.03.49:087][611]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.09.17-15.03.49:087][611]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.09.17-15.03.49:087][611]LogInit: FAudioDevice initialized.
+[2022.09.17-15.03.49:087][611]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level关卡'.
+[2022.09.17-15.03.49:101][611]LogLoad: Game class is 'L1_GameMode游戏模式_C'
+[2022.09.17-15.03.49:102][611]LogWorld: Bringing World /Game/Maps场景/UEDPIE_0_Level关卡.Level关卡 up for play (max tick rate 0) at 2022.09.17-23.03.49
+[2022.09.17-15.03.49:103][611]LogWorld: Bringing up level for play took: 0.001671
+[2022.09.17-15.03.49:105][611]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.09.17-15.03.49:110][611]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.03.49:110][611]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.03.49:110][611]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.03.49:110][611]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.03.49:110][611]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.03.49:110][611]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.03.49:110][611]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.03.49:110][611]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.03.49:110][611]PIE: 登陆的服务器
+[2022.09.17-15.03.49:112][611]PIE: PIE总开始时间：0.173秒。
+[2022.09.17-15.03.51:005][762]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.17-15.03.51:005][762]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.09.17-15.03.51:005][762]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.09.17-15.03.53:423][975]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.09.17-15.03.53:423][975]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.09.17-15.03.56:076][210]LogBlueprintUserMessages: [BPC_Movement移动] 99.0
+[2022.09.17-15.03.56:178][219]LogBlueprintUserMessages: [BPC_Movement移动] 98.0
+[2022.09.17-15.03.56:279][228]LogBlueprintUserMessages: [BPC_Movement移动] 97.0
+[2022.09.17-15.03.56:379][237]LogBlueprintUserMessages: [BPC_Movement移动] 96.0
+[2022.09.17-15.03.56:483][246]LogBlueprintUserMessages: [BPC_Movement移动] 95.0
+[2022.09.17-15.03.56:573][254]LogBlueprintUserMessages: [BPC_Movement移动] 94.0
+[2022.09.17-15.03.56:683][264]LogBlueprintUserMessages: [BPC_Movement移动] 93.0
+[2022.09.17-15.03.56:781][273]LogBlueprintUserMessages: [BPC_Movement移动] 92.0
+[2022.09.17-15.03.56:881][282]LogBlueprintUserMessages: [BPC_Movement移动] 91.0
+[2022.09.17-15.03.56:979][291]LogBlueprintUserMessages: [BPC_Movement移动] 90.0
+[2022.09.17-15.03.57:217][312]LogBlueprintUserMessages: [BPC_Movement移动] 89.0
+[2022.09.17-15.03.57:309][320]LogBlueprintUserMessages: [BPC_Movement移动] 88.0
+[2022.09.17-15.03.57:410][328]LogBlueprintUserMessages: [BPC_Movement移动] 87.0
+[2022.09.17-15.03.57:514][336]LogBlueprintUserMessages: [BPC_Movement移动] 86.0
+[2022.09.17-15.03.57:618][345]LogBlueprintUserMessages: [BPC_Movement移动] 85.0
+[2022.09.17-15.03.57:710][353]LogBlueprintUserMessages: [BPC_Movement移动] 84.0
+[2022.09.17-15.03.57:814][362]LogBlueprintUserMessages: [BPC_Movement移动] 83.0
+[2022.09.17-15.03.57:920][371]LogBlueprintUserMessages: [BPC_Movement移动] 82.0
+[2022.09.17-15.03.58:018][380]LogBlueprintUserMessages: [BPC_Movement移动] 81.0
+[2022.09.17-15.03.58:111][388]LogBlueprintUserMessages: [BPC_Movement移动] 80.0
+[2022.09.17-15.03.58:215][395]LogBlueprintUserMessages: [BPC_Movement移动] 79.0
+[2022.09.17-15.03.58:320][404]LogBlueprintUserMessages: [BPC_Movement移动] 78.0
+[2022.09.17-15.03.58:410][412]LogBlueprintUserMessages: [BPC_Movement移动] 77.0
+[2022.09.17-15.03.58:515][421]LogBlueprintUserMessages: [BPC_Movement移动] 76.0
+[2022.09.17-15.03.58:617][430]LogBlueprintUserMessages: [BPC_Movement移动] 75.0
+[2022.09.17-15.03.58:710][438]LogBlueprintUserMessages: [BPC_Movement移动] 74.0
+[2022.09.17-15.03.58:817][447]LogBlueprintUserMessages: [BPC_Movement移动] 73.0
+[2022.09.17-15.03.58:916][455]LogBlueprintUserMessages: [BPC_Movement移动] 72.0
+[2022.09.17-15.03.59:014][463]LogBlueprintUserMessages: [BPC_Movement移动] 71.0
+[2022.09.17-15.03.59:119][471]LogBlueprintUserMessages: [BPC_Movement移动] 70.0
+[2022.09.17-15.03.59:222][479]LogBlueprintUserMessages: [BPC_Movement移动] 69.0
+[2022.09.17-15.03.59:316][486]LogBlueprintUserMessages: [BPC_Movement移动] 68.0
+[2022.09.17-15.03.59:963][540]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.17-15.03.59:964][540]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.09.17-15.04.02:328][753]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.09.17-15.04.02:328][753]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.09.17-15.04.03:193][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-15.04.03:193][828]LogWorld: BeginTearingDown for /Game/Maps场景/UEDPIE_0_Level关卡
+[2022.09.17-15.04.03:193][828]LogWorld: UWorld::CleanupWorld for Level关卡, bSessionEnded=true, bCleanupResources=true
+[2022.09.17-15.04.03:193][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.17-15.04.03:213][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.17-15.04.03:218][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.17-15.04.03:257][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-15.04.03:258][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.09.17-15.04.03:260][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.09.17-15.04.03:273][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.09.17-15.04.03:300][829]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.09.17-15.04.32:752][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps场景/Level关卡" FILE="E:/mod/恐怖冒险案例/Content/Maps场景/Level关卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.17-15.04.32:791][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.09.17-15.04.32:804][ 70]LogSavePackage: Moving output files for package: /Game/Maps场景/Level关卡
+[2022.09.17-15.04.32:805][ 70]LogSavePackage: Moving 'E:/mod/恐怖冒险案例/Saved/Level关卡404498AB47549B22E035E298D6E3ECF1.tmp' to 'E:/mod/恐怖冒险案例/Content/Maps场景/Level关卡.umap'
+[2022.09.17-15.04.32:815][ 70]LogFileHelpers: 没有需要保存的新变更！
+[2022.09.17-15.04.32:833][ 70]AssetCheck: New page: 资产保存：Level关卡
+[2022.09.17-15.04.32:833][ 70]LogContentValidation: Display: 正在验证World /Game/Maps场景/Level关卡.Level关卡
+[2022.09.17-15.04.33:530][121]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2022.09.17-15.04.33:536][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.17-15.04.33:536][121]PIE: New page: PIE会话：Level关卡（2022年9月18日 上午7:04:33）
+[2022.09.17-15.04.33:571][121]LogPlayLevel: Creating play world package: /Game/Maps场景/UEDPIE_0_Level关卡
+[2022.09.17-15.04.33:574][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003226s)
+[2022.09.17-15.04.33:574][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps场景/Level关卡.Level关卡 to /Game/Maps场景/UEDPIE_0_Level关卡.Level关卡 (0.003350s)
+[2022.09.17-15.04.33:574][121]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.17-15.04.33:574][121]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.17-15.04.33:575][121]LogAIModule: Creating AISystem for world Level关卡
+[2022.09.17-15.04.33:575][121]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2022.09.17-15.04.33:616][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.09.17-15.04.33:617][121]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.09.17-15.04.33:617][121]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.17-15.04.33:617][121]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.17-15.04.33:617][121]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.17-15.04.33:617][121]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.17-15.04.33:617][121]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.09.17-15.04.33:617][121]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.17-15.04.33:617][121]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.09.17-15.04.33:617][121]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.17-15.04.33:618][121]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.17-15.04.33:618][121]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.17-15.04.33:618][121]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.17-15.04.33:620][121]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.17-15.04.33:697][121]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (THX Spatial - Synapse)
+[2022.09.17-15.04.33:697][121]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.17-15.04.33:697][121]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.17-15.04.33:697][121]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.17-15.04.33:698][121]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.09.17-15.04.33:698][121]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2022.09.17-15.04.33:699][121]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.09.17-15.04.33:699][121]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.09.17-15.04.33:699][121]LogInit: FAudioDevice initialized.
+[2022.09.17-15.04.33:699][121]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level关卡'.
+[2022.09.17-15.04.33:715][121]LogLoad: Game class is 'L1_GameMode游戏模式_C'
+[2022.09.17-15.04.33:717][121]LogWorld: Bringing World /Game/Maps场景/UEDPIE_0_Level关卡.Level关卡 up for play (max tick rate 0) at 2022.09.17-23.04.33
+[2022.09.17-15.04.33:717][121]LogWorld: Bringing up level for play took: 0.001625
+[2022.09.17-15.04.33:719][121]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.09.17-15.04.33:723][121]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.04.33:723][121]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.04.33:723][121]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.04.33:723][121]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.04.33:723][121]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.04.33:723][121]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.04.33:723][121]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.04.33:723][121]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.04.33:724][121]PIE: 登陆的服务器
+[2022.09.17-15.04.33:724][121]PIE: PIE总开始时间：0.188秒。
+[2022.09.17-15.04.35:484][268]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.17-15.04.35:484][268]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.09.17-15.04.35:484][268]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.09.17-15.04.38:398][523]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.09.17-15.04.38:398][523]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.09.17-15.04.39:032][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-15.04.39:032][576]LogWorld: BeginTearingDown for /Game/Maps场景/UEDPIE_0_Level关卡
+[2022.09.17-15.04.39:033][576]LogWorld: UWorld::CleanupWorld for Level关卡, bSessionEnded=true, bCleanupResources=true
+[2022.09.17-15.04.39:033][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.17-15.04.39:045][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.17-15.04.39:053][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.17-15.04.39:092][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-15.04.39:092][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.09.17-15.04.39:093][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.09.17-15.04.39:100][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.09.17-15.04.39:136][577]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.09.17-15.04.47:904][228]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2022.09.17-15.04.47:911][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.17-15.04.47:911][228]PIE: New page: PIE会话：Level关卡（2022年9月18日 上午7:04:47）
+[2022.09.17-15.04.47:911][228]LogPlayLevel: Creating play world package: /Game/Maps场景/UEDPIE_0_Level关卡
+[2022.09.17-15.04.47:915][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003728s)
+[2022.09.17-15.04.47:915][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps场景/Level关卡.Level关卡 to /Game/Maps场景/UEDPIE_0_Level关卡.Level关卡 (0.003847s)
+[2022.09.17-15.04.47:915][228]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.17-15.04.47:915][228]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.17-15.04.47:915][228]LogAIModule: Creating AISystem for world Level关卡
+[2022.09.17-15.04.47:916][228]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2022.09.17-15.04.47:957][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.09.17-15.04.47:959][228]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.09.17-15.04.47:959][228]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.17-15.04.47:959][228]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.17-15.04.47:959][228]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.17-15.04.47:959][228]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.17-15.04.47:959][228]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.09.17-15.04.47:959][228]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.17-15.04.47:959][228]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.09.17-15.04.47:959][228]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.17-15.04.47:960][228]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.17-15.04.47:960][228]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.17-15.04.47:960][228]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.17-15.04.47:963][228]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.17-15.04.48:043][228]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (THX Spatial - Synapse)
+[2022.09.17-15.04.48:043][228]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.17-15.04.48:043][228]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.17-15.04.48:043][228]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.17-15.04.48:043][228]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.09.17-15.04.48:043][228]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=6
+[2022.09.17-15.04.48:045][228]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.09.17-15.04.48:045][228]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.09.17-15.04.48:045][228]LogInit: FAudioDevice initialized.
+[2022.09.17-15.04.48:045][228]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level关卡'.
+[2022.09.17-15.04.48:059][228]LogLoad: Game class is 'L1_GameMode游戏模式_C'
+[2022.09.17-15.04.48:062][228]LogWorld: Bringing World /Game/Maps场景/UEDPIE_0_Level关卡.Level关卡 up for play (max tick rate 0) at 2022.09.17-23.04.48
+[2022.09.17-15.04.48:062][228]LogWorld: Bringing up level for play took: 0.003085
+[2022.09.17-15.04.48:064][228]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.09.17-15.04.48:068][228]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.04.48:068][228]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.04.48:068][228]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.04.48:068][228]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.04.48:068][228]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.04.48:068][228]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.04.48:068][228]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.04.48:068][228]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.04.48:069][228]PIE: 登陆的服务器
+[2022.09.17-15.04.48:069][228]PIE: PIE总开始时间：0.159秒。
+[2022.09.17-15.04.49:017][305]LogBlueprintUserMessages: [BPC_Movement移动] 99.0
+[2022.09.17-15.04.49:116][314]LogBlueprintUserMessages: [BPC_Movement移动] 98.0
+[2022.09.17-15.04.49:222][323]LogBlueprintUserMessages: [BPC_Movement移动] 97.0
+[2022.09.17-15.04.49:315][331]LogBlueprintUserMessages: [BPC_Movement移动] 96.0
+[2022.09.17-15.04.49:422][340]LogBlueprintUserMessages: [BPC_Movement移动] 95.0
+[2022.09.17-15.04.49:521][348]LogBlueprintUserMessages: [BPC_Movement移动] 94.0
+[2022.09.17-15.04.49:613][355]LogBlueprintUserMessages: [BPC_Movement移动] 93.0
+[2022.09.17-15.04.49:722][363]LogBlueprintUserMessages: [BPC_Movement移动] 92.0
+[2022.09.17-15.04.49:812][370]LogBlueprintUserMessages: [BPC_Movement移动] 91.0
+[2022.09.17-15.04.49:913][379]LogBlueprintUserMessages: [BPC_Movement移动] 90.0
+[2022.09.17-15.04.50:011][387]LogBlueprintUserMessages: [BPC_Movement移动] 89.0
+[2022.09.17-15.04.50:112][396]LogBlueprintUserMessages: [BPC_Movement移动] 88.0
+[2022.09.17-15.04.50:219][405]LogBlueprintUserMessages: [BPC_Movement移动] 87.0
+[2022.09.17-15.04.50:313][413]LogBlueprintUserMessages: [BPC_Movement移动] 86.0
+[2022.09.17-15.04.50:423][422]LogBlueprintUserMessages: [BPC_Movement移动] 85.0
+[2022.09.17-15.04.50:522][431]LogBlueprintUserMessages: [BPC_Movement移动] 84.0
+[2022.09.17-15.04.50:617][439]LogBlueprintUserMessages: [BPC_Movement移动] 83.0
+[2022.09.17-15.04.50:721][448]LogBlueprintUserMessages: [BPC_Movement移动] 82.0
+[2022.09.17-15.04.50:812][456]LogBlueprintUserMessages: [BPC_Movement移动] 81.0
+[2022.09.17-15.04.50:915][465]LogBlueprintUserMessages: [BPC_Movement移动] 80.0
+[2022.09.17-15.04.51:021][474]LogBlueprintUserMessages: [BPC_Movement移动] 79.0
+[2022.09.17-15.04.51:112][482]LogBlueprintUserMessages: [BPC_Movement移动] 78.0
+[2022.09.17-15.04.51:222][491]LogBlueprintUserMessages: [BPC_Movement移动] 77.0
+[2022.09.17-15.04.51:321][499]LogBlueprintUserMessages: [BPC_Movement移动] 76.0
+[2022.09.17-15.04.51:421][507]LogBlueprintUserMessages: [BPC_Movement移动] 75.0
+[2022.09.17-15.04.51:517][515]LogBlueprintUserMessages: [BPC_Movement移动] 74.0
+[2022.09.17-15.04.52:170][570]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.17-15.04.52:170][570]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.09.17-15.04.52:170][570]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.09.17-15.04.54:216][752]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.09.17-15.04.54:216][752]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.09.17-15.04.54:831][805]LogBlueprintUserMessages: [BPC_Movement移动] 73.0
+[2022.09.17-15.04.55:569][866]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.17-15.04.55:569][866]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.09.17-15.04.57:766][ 67]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.09.17-15.04.57:766][ 67]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.09.17-15.04.58:243][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-15.04.58:243][109]LogWorld: BeginTearingDown for /Game/Maps场景/UEDPIE_0_Level关卡
+[2022.09.17-15.04.58:243][109]LogWorld: UWorld::CleanupWorld for Level关卡, bSessionEnded=true, bCleanupResources=true
+[2022.09.17-15.04.58:243][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.17-15.04.58:257][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.17-15.04.58:265][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.17-15.04.58:308][109]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.17-15.04.58:308][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.09.17-15.04.58:309][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.09.17-15.04.58:316][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-15.04.58:319][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.09.17-15.04.58:354][110]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.09.17-15.05.11:832][142]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2022.09.17-15.05.11:838][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.17-15.05.11:838][142]PIE: New page: PIE会话：Level关卡（2022年9月18日 上午7:05:11）
+[2022.09.17-15.05.11:861][142]LogPlayLevel: Creating play world package: /Game/Maps场景/UEDPIE_0_Level关卡
+[2022.09.17-15.05.11:865][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004004s)
+[2022.09.17-15.05.11:865][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps场景/Level关卡.Level关卡 to /Game/Maps场景/UEDPIE_0_Level关卡.Level关卡 (0.004155s)
+[2022.09.17-15.05.11:866][142]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.17-15.05.11:866][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.17-15.05.11:866][142]LogAIModule: Creating AISystem for world Level关卡
+[2022.09.17-15.05.11:866][142]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2022.09.17-15.05.11:906][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.09.17-15.05.11:908][142]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.09.17-15.05.11:908][142]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.17-15.05.11:908][142]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.17-15.05.11:908][142]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.17-15.05.11:908][142]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.17-15.05.11:908][142]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.09.17-15.05.11:908][142]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.17-15.05.11:908][142]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.09.17-15.05.11:908][142]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.17-15.05.11:909][142]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.17-15.05.11:909][142]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.17-15.05.11:909][142]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.17-15.05.11:911][142]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.17-15.05.11:989][142]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (THX Spatial - Synapse)
+[2022.09.17-15.05.11:989][142]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.17-15.05.11:989][142]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.17-15.05.11:989][142]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.17-15.05.11:990][142]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.09.17-15.05.11:990][142]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=7
+[2022.09.17-15.05.11:993][142]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.09.17-15.05.11:993][142]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.09.17-15.05.11:993][142]LogInit: FAudioDevice initialized.
+[2022.09.17-15.05.11:993][142]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level关卡'.
+[2022.09.17-15.05.12:006][142]LogLoad: Game class is 'L1_GameMode游戏模式_C'
+[2022.09.17-15.05.12:007][142]LogWorld: Bringing World /Game/Maps场景/UEDPIE_0_Level关卡.Level关卡 up for play (max tick rate 0) at 2022.09.17-23.05.12
+[2022.09.17-15.05.12:007][142]LogWorld: Bringing up level for play took: 0.001534
+[2022.09.17-15.05.12:010][142]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2022.09.17-15.05.12:014][142]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.05.12:014][142]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.05.12:014][142]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.05.12:014][142]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.05.12:014][142]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.05.12:014][142]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.05.12:014][142]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.05.12:014][142]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.05.12:014][142]PIE: 登陆的服务器
+[2022.09.17-15.05.12:015][142]PIE: PIE总开始时间：0.177秒。
+[2022.09.17-15.05.15:353][411]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.17-15.05.15:353][411]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.09.17-15.05.15:353][411]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.09.17-15.05.21:963][987]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.09.17-15.05.21:963][987]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.09.17-15.05.22:773][ 58]LogBlueprintUserMessages: [BPC_Movement移动] 99.0
+[2022.09.17-15.05.22:877][ 67]LogBlueprintUserMessages: [BPC_Movement移动] 98.0
+[2022.09.17-15.05.22:969][ 75]LogBlueprintUserMessages: [BPC_Movement移动] 97.0
+[2022.09.17-15.05.23:571][127]LogBlueprintUserMessages: [BPC_Movement移动] 96.0
+[2022.09.17-15.05.23:664][135]LogBlueprintUserMessages: [BPC_Movement移动] 95.0
+[2022.09.17-15.05.23:769][144]LogBlueprintUserMessages: [BPC_Movement移动] 94.0
+[2022.09.17-15.05.23:867][153]LogBlueprintUserMessages: [BPC_Movement移动] 93.0
+[2022.09.17-15.05.23:972][162]LogBlueprintUserMessages: [BPC_Movement移动] 92.0
+[2022.09.17-15.05.24:070][171]LogBlueprintUserMessages: [BPC_Movement移动] 91.0
+[2022.09.17-15.05.24:167][179]LogBlueprintUserMessages: [BPC_Movement移动] 90.0
+[2022.09.17-15.05.24:266][188]LogBlueprintUserMessages: [BPC_Movement移动] 89.0
+[2022.09.17-15.05.25:643][310]LogBlueprintUserMessages: [BPC_Movement移动] 88.0
+[2022.09.17-15.05.25:744][319]LogBlueprintUserMessages: [BPC_Movement移动] 87.0
+[2022.09.17-15.05.25:846][328]LogBlueprintUserMessages: [BPC_Movement移动] 86.0
+[2022.09.17-15.05.25:945][336]LogBlueprintUserMessages: [BPC_Movement移动] 85.0
+[2022.09.17-15.05.26:040][344]LogBlueprintUserMessages: [BPC_Movement移动] 84.0
+[2022.09.17-15.05.26:144][353]LogBlueprintUserMessages: [BPC_Movement移动] 83.0
+[2022.09.17-15.05.26:248][362]LogBlueprintUserMessages: [BPC_Movement移动] 82.0
+[2022.09.17-15.05.26:349][371]LogBlueprintUserMessages: [BPC_Movement移动] 81.0
+[2022.09.17-15.05.26:444][379]LogBlueprintUserMessages: [BPC_Movement移动] 80.0
+[2022.09.17-15.05.26:553][388]LogBlueprintUserMessages: [BPC_Movement移动] 79.0
+[2022.09.17-15.05.26:640][396]LogBlueprintUserMessages: [BPC_Movement移动] 78.0
+[2022.09.17-15.05.26:743][405]LogBlueprintUserMessages: [BPC_Movement移动] 77.0
+[2022.09.17-15.05.26:846][414]LogBlueprintUserMessages: [BPC_Movement移动] 76.0
+[2022.09.17-15.05.26:948][423]LogBlueprintUserMessages: [BPC_Movement移动] 75.0
+[2022.09.17-15.05.27:040][431]LogBlueprintUserMessages: [BPC_Movement移动] 74.0
+[2022.09.17-15.05.27:143][440]LogBlueprintUserMessages: [BPC_Movement移动] 73.0
+[2022.09.17-15.05.27:249][449]LogBlueprintUserMessages: [BPC_Movement移动] 72.0
+[2022.09.17-15.05.27:348][458]LogBlueprintUserMessages: [BPC_Movement移动] 71.0
+[2022.09.17-15.05.27:443][466]LogBlueprintUserMessages: [BPC_Movement移动] 70.0
+[2022.09.17-15.05.27:544][474]LogBlueprintUserMessages: [BPC_Movement移动] 69.0
+[2022.09.17-15.05.27:648][482]LogBlueprintUserMessages: [BPC_Movement移动] 68.0
+[2022.09.17-15.05.27:753][490]LogBlueprintUserMessages: [BPC_Movement移动] 67.0
+[2022.09.17-15.05.27:850][498]LogBlueprintUserMessages: [BPC_Movement移动] 66.0
+[2022.09.17-15.05.27:952][505]LogBlueprintUserMessages: [BPC_Movement移动] 65.0
+[2022.09.17-15.05.28:046][512]LogBlueprintUserMessages: [BPC_Movement移动] 64.0
+[2022.09.17-15.05.28:146][520]LogBlueprintUserMessages: [BPC_Movement移动] 63.0
+[2022.09.17-15.05.28:252][529]LogBlueprintUserMessages: [BPC_Movement移动] 62.0
+[2022.09.17-15.05.28:821][577]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.17-15.05.28:821][577]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.09.17-15.05.31:185][784]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.09.17-15.05.31:185][784]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.09.17-15.05.31:824][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-15.05.31:824][837]LogWorld: BeginTearingDown for /Game/Maps场景/UEDPIE_0_Level关卡
+[2022.09.17-15.05.31:825][837]LogWorld: UWorld::CleanupWorld for Level关卡, bSessionEnded=true, bCleanupResources=true
+[2022.09.17-15.05.31:825][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.17-15.05.31:842][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.17-15.05.31:847][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.17-15.05.31:885][837]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.17-15.05.31:886][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.09.17-15.05.31:887][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.09.17-15.05.31:894][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-15.05.31:897][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.09.17-15.05.31:937][838]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.09.17-15.05.47:261][976]LogEditorViewport: Clicking Background
+[2022.09.17-15.05.51:119][272]LogAssetEditorSubsystem: Opening Asset editor for TextureRenderTarget2D /Game/Blueprints蓝图/RenderTargets渲染目标/RenderTarget2D查看模型.RenderTarget2D查看模型
+[2022.09.17-15.05.51:151][272]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.09.17-15.05.51:564][272]LogViewport: Scene viewport resized to 1231x768, mode Windowed.
+[2022.09.17-15.05.53:396][395]LogSlate: Window 'RenderTarget2D查看模型' being destroyed
+[2022.09.17-15.05.53:420][395]LogSlate: Window 'RenderTarget2D查看模型' being destroyed
+[2022.09.17-15.05.56:058][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps场景/Level关卡" FILE="E:/mod/恐怖冒险案例/Content/Maps场景/Level关卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.17-15.05.56:136][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.09.17-15.05.56:149][580]LogSavePackage: Moving output files for package: /Game/Maps场景/Level关卡
+[2022.09.17-15.05.56:150][580]LogSavePackage: Moving 'E:/mod/恐怖冒险案例/Saved/Level关卡CCCBB420496AA6E110AD0E98973C66AE.tmp' to 'E:/mod/恐怖冒险案例/Content/Maps场景/Level关卡.umap'
+[2022.09.17-15.05.56:161][580]LogFileHelpers: 没有需要保存的新变更！
+[2022.09.17-15.05.56:177][580]AssetCheck: New page: 资产保存：Level关卡
+[2022.09.17-15.05.56:177][580]LogContentValidation: Display: 正在验证World /Game/Maps场景/Level关卡.Level关卡
+[2022.09.17-15.05.57:784][699]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2022.09.17-15.05.57:791][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.17-15.05.57:792][699]PIE: New page: PIE会话：Level关卡（2022年9月18日 上午7:05:57）
+[2022.09.17-15.05.57:792][699]LogPlayLevel: Creating play world package: /Game/Maps场景/UEDPIE_0_Level关卡
+[2022.09.17-15.05.57:797][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005021s)
+[2022.09.17-15.05.57:797][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps场景/Level关卡.Level关卡 to /Game/Maps场景/UEDPIE_0_Level关卡.Level关卡 (0.005165s)
+[2022.09.17-15.05.57:797][699]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.17-15.05.57:798][699]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.17-15.05.57:798][699]LogAIModule: Creating AISystem for world Level关卡
+[2022.09.17-15.05.57:799][699]LogPlayLevel: PIE: World Init took: (0.001683s)
+[2022.09.17-15.05.57:864][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.09.17-15.05.57:870][699]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.09.17-15.05.57:870][699]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.17-15.05.57:870][699]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.17-15.05.57:870][699]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.17-15.05.57:870][699]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.17-15.05.57:870][699]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.09.17-15.05.57:870][699]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.17-15.05.57:870][699]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.09.17-15.05.57:870][699]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.17-15.05.57:871][699]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.17-15.05.57:871][699]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.17-15.05.57:871][699]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.17-15.05.57:873][699]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.17-15.05.57:955][699]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (THX Spatial - Synapse)
+[2022.09.17-15.05.57:955][699]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.17-15.05.57:955][699]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.17-15.05.57:955][699]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.17-15.05.57:956][699]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.09.17-15.05.57:956][699]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=8
+[2022.09.17-15.05.57:958][699]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.09.17-15.05.57:958][699]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.09.17-15.05.57:958][699]LogInit: FAudioDevice initialized.
+[2022.09.17-15.05.57:958][699]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level关卡'.
+[2022.09.17-15.05.57:977][699]LogLoad: Game class is 'L1_GameMode游戏模式_C'
+[2022.09.17-15.05.57:979][699]LogWorld: Bringing World /Game/Maps场景/UEDPIE_0_Level关卡.Level关卡 up for play (max tick rate 0) at 2022.09.17-23.05.57
+[2022.09.17-15.05.57:979][699]LogWorld: Bringing up level for play took: 0.001711
+[2022.09.17-15.05.57:981][699]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2022.09.17-15.05.57:985][699]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.05.57:985][699]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.05.57:985][699]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.05.57:985][699]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.05.57:985][699]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.05.57:986][699]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.05.57:986][699]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.05.57:986][699]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'InventorySlots库存格子' of length 0 in '/Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件_C'!
+[2022.09.17-15.05.57:986][699]PIE: 登陆的服务器
+[2022.09.17-15.05.57:990][699]PIE: PIE总开始时间：0.198秒。
+[2022.09.17-15.05.58:751][757]LogBlueprintUserMessages: [BPC_Movement移动] 99.0
+[2022.09.17-15.05.58:858][766]LogBlueprintUserMessages: [BPC_Movement移动] 98.0
+[2022.09.17-15.05.58:960][774]LogBlueprintUserMessages: [BPC_Movement移动] 97.0
+[2022.09.17-15.05.59:536][823]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.17-15.05.59:536][823]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.09.17-15.05.59:536][823]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.09.17-15.06.03:758][197]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.09.17-15.06.03:758][197]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.09.17-15.06.04:083][226]LogBlueprintUserMessages: [BPC_Movement移动] 98.0
+[2022.09.17-15.06.04:112][229]LogBlueprintUserMessages: [BPC_Movement移动] 99.0
+[2022.09.17-15.06.04:136][231]LogBlueprintUserMessages: [BPC_Movement移动] 100.0
+[2022.09.17-15.06.04:531][265]LogBlueprintUserMessages: [BPC_Movement移动] 99.0
+[2022.09.17-15.06.04:632][274]LogBlueprintUserMessages: [BPC_Movement移动] 98.0
+[2022.09.17-15.06.04:741][283]LogBlueprintUserMessages: [BPC_Movement移动] 97.0
+[2022.09.17-15.06.04:834][291]LogBlueprintUserMessages: [BPC_Movement移动] 96.0
+[2022.09.17-15.06.04:936][300]LogBlueprintUserMessages: [BPC_Movement移动] 95.0
+[2022.09.17-15.06.05:040][309]LogBlueprintUserMessages: [BPC_Movement移动] 94.0
+[2022.09.17-15.06.05:133][317]LogBlueprintUserMessages: [BPC_Movement移动] 93.0
+[2022.09.17-15.06.05:234][326]LogBlueprintUserMessages: [BPC_Movement移动] 92.0
+[2022.09.17-15.06.05:336][335]LogBlueprintUserMessages: [BPC_Movement移动] 91.0
+[2022.09.17-15.06.05:429][343]LogBlueprintUserMessages: [BPC_Movement移动] 90.0
+[2022.09.17-15.06.05:536][352]LogBlueprintUserMessages: [BPC_Movement移动] 89.0
+[2022.09.17-15.06.05:636][361]LogBlueprintUserMessages: [BPC_Movement移动] 88.0
+[2022.09.17-15.06.05:731][369]LogBlueprintUserMessages: [BPC_Movement移动] 87.0
+[2022.09.17-15.06.05:834][378]LogBlueprintUserMessages: [BPC_Movement移动] 86.0
+[2022.09.17-15.06.05:935][386]LogBlueprintUserMessages: [BPC_Movement移动] 85.0
+[2022.09.17-15.06.06:037][394]LogBlueprintUserMessages: [BPC_Movement移动] 84.0
+[2022.09.17-15.06.06:140][402]LogBlueprintUserMessages: [BPC_Movement移动] 83.0
+[2022.09.17-15.06.06:838][462]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.17-15.06.06:838][462]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.09.17-15.06.07:725][540]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.09.17-15.06.07:725][540]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.09.17-15.06.08:306][590]LogBlueprintUserMessages: [BPC_Movement移动] 82.0
+[2022.09.17-15.06.08:412][599]LogBlueprintUserMessages: [BPC_Movement移动] 81.0
+[2022.09.17-15.06.08:504][607]LogBlueprintUserMessages: [BPC_Movement移动] 80.0
+[2022.09.17-15.06.08:603][616]LogBlueprintUserMessages: [BPC_Movement移动] 79.0
+[2022.09.17-15.06.08:708][625]LogBlueprintUserMessages: [BPC_Movement移动] 78.0
+[2022.09.17-15.06.08:802][633]LogBlueprintUserMessages: [BPC_Movement移动] 77.0
+[2022.09.17-15.06.08:908][642]LogBlueprintUserMessages: [BPC_Movement移动] 76.0
+[2022.09.17-15.06.09:000][650]LogBlueprintUserMessages: [BPC_Movement移动] 75.0
+[2022.09.17-15.06.09:106][659]LogBlueprintUserMessages: [BPC_Movement移动] 74.0
+[2022.09.17-15.06.09:208][668]LogBlueprintUserMessages: [BPC_Movement移动] 73.0
+[2022.09.17-15.06.09:304][676]LogBlueprintUserMessages: [BPC_Movement移动] 72.0
+[2022.09.17-15.06.09:403][685]LogBlueprintUserMessages: [BPC_Movement移动] 71.0
+[2022.09.17-15.06.09:507][694]LogBlueprintUserMessages: [BPC_Movement移动] 70.0
+[2022.09.17-15.06.09:599][702]LogBlueprintUserMessages: [BPC_Movement移动] 69.0
+[2022.09.17-15.06.09:704][711]LogBlueprintUserMessages: [BPC_Movement移动] 68.0
+[2022.09.17-15.06.09:805][720]LogBlueprintUserMessages: [BPC_Movement移动] 67.0
+[2022.09.17-15.06.09:904][729]LogBlueprintUserMessages: [BPC_Movement移动] 66.0
+[2022.09.17-15.06.10:008][738]LogBlueprintUserMessages: [BPC_Movement移动] 65.0
+[2022.09.17-15.06.10:109][747]LogBlueprintUserMessages: [BPC_Movement移动] 64.0
+[2022.09.17-15.06.10:200][755]LogBlueprintUserMessages: [BPC_Movement移动] 63.0
+[2022.09.17-15.06.10:306][764]LogBlueprintUserMessages: [BPC_Movement移动] 62.0
+[2022.09.17-15.06.10:406][773]LogBlueprintUserMessages: [BPC_Movement移动] 61.0
+[2022.09.17-15.06.10:510][782]LogBlueprintUserMessages: [BPC_Movement移动] 60.0
+[2022.09.17-15.06.10:602][790]LogBlueprintUserMessages: [BPC_Movement移动] 59.0
+[2022.09.17-15.06.10:708][799]LogBlueprintUserMessages: [BPC_Movement移动] 58.0
+[2022.09.17-15.06.10:811][808]LogBlueprintUserMessages: [BPC_Movement移动] 57.0
+[2022.09.17-15.06.10:902][816]LogBlueprintUserMessages: [BPC_Movement移动] 56.0
+[2022.09.17-15.06.11:006][825]LogBlueprintUserMessages: [BPC_Movement移动] 55.0
+[2022.09.17-15.06.11:101][833]LogBlueprintUserMessages: [BPC_Movement移动] 54.0
+[2022.09.17-15.06.11:207][842]LogBlueprintUserMessages: [BPC_Movement移动] 53.0
+[2022.09.17-15.06.11:303][850]LogBlueprintUserMessages: [BPC_Movement移动] 52.0
+[2022.09.17-15.06.11:405][859]LogBlueprintUserMessages: [BPC_Movement移动] 51.0
+[2022.09.17-15.06.11:508][868]LogBlueprintUserMessages: [BPC_Movement移动] 50.0
+[2022.09.17-15.06.11:599][876]LogBlueprintUserMessages: [BPC_Movement移动] 49.0
+[2022.09.17-15.06.11:708][885]LogBlueprintUserMessages: [BPC_Movement移动] 48.0
+[2022.09.17-15.06.11:800][893]LogBlueprintUserMessages: [BPC_Movement移动] 47.0
+[2022.09.17-15.06.11:906][902]LogBlueprintUserMessages: [BPC_Movement移动] 46.0
+[2022.09.17-15.06.12:004][910]LogBlueprintUserMessages: [BPC_Movement移动] 45.0
+[2022.09.17-15.06.12:105][918]LogBlueprintUserMessages: [BPC_Movement移动] 44.0
+[2022.09.17-15.06.12:200][926]LogBlueprintUserMessages: [BPC_Movement移动] 43.0
+[2022.09.17-15.06.12:309][935]LogBlueprintUserMessages: [BPC_Movement移动] 42.0
+[2022.09.17-15.06.12:411][943]LogBlueprintUserMessages: [BPC_Movement移动] 41.0
+[2022.09.17-15.06.12:506][951]LogBlueprintUserMessages: [BPC_Movement移动] 40.0
+[2022.09.17-15.06.12:603][959]LogBlueprintUserMessages: [BPC_Movement移动] 39.0
+[2022.09.17-15.06.13:062][999]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.17-15.06.13:062][999]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.09.17-15.06.17:682][405]LogBlueprintUserMessages: [BPC_Movement移动] 40.0
+[2022.09.17-15.06.17:709][407]LogBlueprintUserMessages: [BPC_Movement移动] 41.0
+[2022.09.17-15.06.17:744][410]LogBlueprintUserMessages: [BPC_Movement移动] 42.0
+[2022.09.17-15.06.17:770][412]LogBlueprintUserMessages: [BPC_Movement移动] 43.0
+[2022.09.17-15.06.17:802][415]LogBlueprintUserMessages: [BPC_Movement移动] 44.0
+[2022.09.17-15.06.17:837][418]LogBlueprintUserMessages: [BPC_Movement移动] 45.0
+[2022.09.17-15.06.17:859][420]LogBlueprintUserMessages: [BPC_Movement移动] 46.0
+[2022.09.17-15.06.17:895][423]LogBlueprintUserMessages: [BPC_Movement移动] 47.0
+[2022.09.17-15.06.17:925][426]LogBlueprintUserMessages: [BPC_Movement移动] 48.0
+[2022.09.17-15.06.17:957][429]LogBlueprintUserMessages: [BPC_Movement移动] 49.0
+[2022.09.17-15.06.17:982][431]LogBlueprintUserMessages: [BPC_Movement移动] 50.0
+[2022.09.17-15.06.18:017][434]LogBlueprintUserMessages: [BPC_Movement移动] 51.0
+[2022.09.17-15.06.18:041][436]LogBlueprintUserMessages: [BPC_Movement移动] 52.0
+[2022.09.17-15.06.18:072][439]LogBlueprintUserMessages: [BPC_Movement移动] 53.0
+[2022.09.17-15.06.18:106][442]LogBlueprintUserMessages: [BPC_Movement移动] 54.0
+[2022.09.17-15.06.18:166][444]LogBlueprintUserMessages: [BPC_Movement移动] 55.0
+[2022.09.17-15.06.18:166][444]LogBlueprintUserMessages: [BPC_Movement移动] 56.0
+[2022.09.17-15.06.18:194][447]LogBlueprintUserMessages: [BPC_Movement移动] 57.0
+[2022.09.17-15.06.18:224][450]LogBlueprintUserMessages: [BPC_Movement移动] 58.0
+[2022.09.17-15.06.18:257][453]LogBlueprintUserMessages: [BPC_Movement移动] 59.0
+[2022.09.17-15.06.18:279][455]LogBlueprintUserMessages: [BPC_Movement移动] 60.0
+[2022.09.17-15.06.18:317][458]LogBlueprintUserMessages: [BPC_Movement移动] 61.0
+[2022.09.17-15.06.18:339][460]LogBlueprintUserMessages: [BPC_Movement移动] 62.0
+[2022.09.17-15.06.18:376][463]LogBlueprintUserMessages: [BPC_Movement移动] 63.0
+[2022.09.17-15.06.18:409][466]LogBlueprintUserMessages: [BPC_Movement移动] 64.0
+[2022.09.17-15.06.18:432][468]LogBlueprintUserMessages: [BPC_Movement移动] 65.0
+[2022.09.17-15.06.18:465][471]LogBlueprintUserMessages: [BPC_Movement移动] 66.0
+[2022.09.17-15.06.18:500][474]LogBlueprintUserMessages: [BPC_Movement移动] 67.0
+[2022.09.17-15.06.18:521][476]LogBlueprintUserMessages: [BPC_Movement移动] 68.0
+[2022.09.17-15.06.18:556][479]LogBlueprintUserMessages: [BPC_Movement移动] 69.0
+[2022.09.17-15.06.18:580][481]LogBlueprintUserMessages: [BPC_Movement移动] 70.0
+[2022.09.17-15.06.18:616][484]LogBlueprintUserMessages: [BPC_Movement移动] 71.0
+[2022.09.17-15.06.18:646][487]LogBlueprintUserMessages: [BPC_Movement移动] 72.0
+[2022.09.17-15.06.18:669][489]LogBlueprintUserMessages: [BPC_Movement移动] 73.0
+[2022.09.17-15.06.18:703][492]LogBlueprintUserMessages: [BPC_Movement移动] 74.0
+[2022.09.17-15.06.18:738][495]LogBlueprintUserMessages: [BPC_Movement移动] 75.0
+[2022.09.17-15.06.18:760][497]LogBlueprintUserMessages: [BPC_Movement移动] 76.0
+[2022.09.17-15.06.18:797][500]LogBlueprintUserMessages: [BPC_Movement移动] 77.0
+[2022.09.17-15.06.18:818][502]LogBlueprintUserMessages: [BPC_Movement移动] 78.0
+[2022.09.17-15.06.18:852][505]LogBlueprintUserMessages: [BPC_Movement移动] 79.0
+[2022.09.17-15.06.18:890][508]LogBlueprintUserMessages: [BPC_Movement移动] 80.0
+[2022.09.17-15.06.18:909][510]LogBlueprintUserMessages: [BPC_Movement移动] 81.0
+[2022.09.17-15.06.18:943][513]LogBlueprintUserMessages: [BPC_Movement移动] 82.0
+[2022.09.17-15.06.18:970][515]LogBlueprintUserMessages: [BPC_Movement移动] 83.0
+[2022.09.17-15.06.19:002][518]LogBlueprintUserMessages: [BPC_Movement移动] 84.0
+[2022.09.17-15.06.19:035][521]LogBlueprintUserMessages: [BPC_Movement移动] 85.0
+[2022.09.17-15.06.19:058][523]LogBlueprintUserMessages: [BPC_Movement移动] 86.0
+[2022.09.17-15.06.19:092][526]LogBlueprintUserMessages: [BPC_Movement移动] 87.0
+[2022.09.17-15.06.19:127][529]LogBlueprintUserMessages: [BPC_Movement移动] 88.0
+[2022.09.17-15.06.19:155][531]LogBlueprintUserMessages: [BPC_Movement移动] 89.0
+[2022.09.17-15.06.19:190][534]LogBlueprintUserMessages: [BPC_Movement移动] 90.0
+[2022.09.17-15.06.19:210][536]LogBlueprintUserMessages: [BPC_Movement移动] 91.0
+[2022.09.17-15.06.19:248][539]LogBlueprintUserMessages: [BPC_Movement移动] 92.0
+[2022.09.17-15.06.19:269][541]LogBlueprintUserMessages: [BPC_Movement移动] 93.0
+[2022.09.17-15.06.19:304][544]LogBlueprintUserMessages: [BPC_Movement移动] 94.0
+[2022.09.17-15.06.19:338][547]LogBlueprintUserMessages: [BPC_Movement移动] 95.0
+[2022.09.17-15.06.19:362][549]LogBlueprintUserMessages: [BPC_Movement移动] 96.0
+[2022.09.17-15.06.19:393][552]LogBlueprintUserMessages: [BPC_Movement移动] 97.0
+[2022.09.17-15.06.19:421][554]LogBlueprintUserMessages: [BPC_Movement移动] 98.0
+[2022.09.17-15.06.19:452][557]LogBlueprintUserMessages: [BPC_Movement移动] 99.0
+[2022.09.17-15.06.19:485][560]LogBlueprintUserMessages: [BPC_Movement移动] 100.0
+[2022.09.17-15.06.19:693][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-15.06.19:693][576]LogWorld: BeginTearingDown for /Game/Maps场景/UEDPIE_0_Level关卡
+[2022.09.17-15.06.19:693][576]LogWorld: UWorld::CleanupWorld for Level关卡, bSessionEnded=true, bCleanupResources=true
+[2022.09.17-15.06.19:693][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.17-15.06.19:709][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.17-15.06.19:716][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.17-15.06.19:754][576]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.17-15.06.19:755][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.09.17-15.06.19:756][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.09.17-15.06.19:767][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-15.06.19:770][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.09.17-15.06.19:796][577]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.09.17-15.06.34:167][629]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints蓝图/BlueprintComponents蓝图组件/BPC_Inventory库存组件.BPC_Inventory库存组件
+[2022.09.17-15.06.34:168][629]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.17-15.06.39:573][170]LogScript: Warning: “无访问”正在尝试读取属性 K2Node_DynamicCast_AsHG_Player_Controller_____
+	W_InventoryGrid库存网格_C /Game/Maps场景/Level关卡.Level关卡:W_InventoryMenu库存菜单_C_0.WidgetTree.W_InventoryGrid库存网格
+	Function /Game/UMG界面/Inventory库存/W_InventoryGrid库存网格.W_InventoryGrid库存网格_C:ExecuteUbergraph_W_InventoryGrid库存网格:027A
+[2022.09.17-15.06.39:590][171]LogScript: Warning: “无访问”正在尝试读取属性 K2Node_DynamicCast_AsHG_Player_Controller_____
+	W_InventoryGrid库存网格_C /Game/Maps场景/Level关卡.Level关卡:W_InventoryGrid库存网格_C_0
+	Function /Game/UMG界面/Inventory库存/W_InventoryGrid库存网格.W_InventoryGrid库存网格_C:ExecuteUbergraph_W_InventoryGrid库存网格:027A
+[2022.09.17-15.06.39:598][172]LogScript: Warning: “无访问”正在尝试读取属性 K2Node_DynamicCast_AsHG_Player_Controller_____
+	W_InventoryGrid库存网格_C /Game/Maps场景/Level关卡.Level关卡:W_InventoryGrid库存网格_C_0
+	Function /Game/UMG界面/Inventory库存/W_InventoryGrid库存网格.W_InventoryGrid库存网格_C:ExecuteUbergraph_W_InventoryGrid库存网格:027A
+[2022.09.17-15.06.39:608][173]LogScript: Warning: “无访问”正在尝试读取属性 K2Node_DynamicCast_AsHG_Player_Controller_____
+	W_InventoryGrid库存网格_C /Game/Maps场景/Level关卡.Level关卡:W_InventoryGrid库存网格_C_0
+	Function /Game/UMG界面/Inventory库存/W_InventoryGrid库存网格.W_InventoryGrid库存网格_C:ExecuteUbergraph_W_InventoryGrid库存网格:027A
+[2022.09.17-15.06.39:615][174]LogScript: Warning: “无访问”正在尝试读取属性 K2Node_DynamicCast_AsHG_Player_Controller_____
+	W_InventoryGrid库存网格_C /Game/Maps场景/Level关卡.Level关卡:W_InventoryGrid库存网格_C_0
+	Function /Game/UMG界面/Inventory库存/W_InventoryGrid库存网格.W_InventoryGrid库存网格_C:ExecuteUbergraph_W_InventoryGrid库存网格:027A
+[2022.09.17-15.06.39:626][175]LogScript: Warning: “无访问”正在尝试读取属性 K2Node_DynamicCast_AsHG_Player_Controller_____
+	W_InventoryGrid库存网格_C /Game/Maps场景/Level关卡.Level关卡:W_InventoryGrid库存网格_C_0
+	Function /Game/UMG界面/Inventory库存/W_InventoryGrid库存网格.W_InventoryGrid库存网格_C:ExecuteUbergraph_W_InventoryGrid库存网格:027A
+[2022.09.17-15.06.39:633][176]LogScript: Warning: “无访问”正在尝试读取属性 K2Node_DynamicCast_AsHG_Player_Controller_____
+	W_InventoryGrid库存网格_C /Game/Maps场景/Level关卡.Level关卡:W_InventoryGrid库存网格_C_0
+	Function /Game/UMG界面/Inventory库存/W_InventoryGrid库存网格.W_InventoryGrid库存网格_C:ExecuteUbergraph_W_InventoryGrid库存网格:027A
+[2022.09.17-15.06.39:642][177]LogScript: Warning: “无访问”正在尝试读取属性 K2Node_DynamicCast_AsHG_Player_Controller_____
+	W_InventoryGrid库存网格_C /Game/Maps场景/Level关卡.Level关卡:W_InventoryGrid库存网格_C_0
+	Function /Game/UMG界面/Inventory库存/W_InventoryGrid库存网格.W_InventoryGrid库存网格_C:ExecuteUbergraph_W_InventoryGrid库存网格:027A
+[2022.09.17-15.06.39:650][178]LogScript: Warning: “无访问”正在尝试读取属性 K2Node_DynamicCast_AsHG_Player_Controller_____
+	W_InventoryGrid库存网格_C /Game/Maps场景/Level关卡.Level关卡:W_InventoryGrid库存网格_C_0
+	Function /Game/UMG界面/Inventory库存/W_InventoryGrid库存网格.W_InventoryGrid库存网格_C:ExecuteUbergraph_W_InventoryGrid库存网格:027A
+[2022.09.17-15.06.39:658][179]LogScript: Warning: “无访问”正在尝试读取属性 K2Node_DynamicCast_AsHG_Player_Controller_____
+	W_InventoryGrid库存网格_C /Game/Maps场景/Level关卡.Level关卡:W_InventoryGrid库存网格_C_0
+	Function /Game/UMG界面/Inventory库存/W_InventoryGrid库存网格.W_InventoryGrid库存网格_C:ExecuteUbergraph_W_InventoryGrid库存网格:027A
+[2022.09.17-15.06.39:667][180]LogScript: Warning: “无访问”正在尝试读取属性 K2Node_DynamicCast_AsHG_Player_Controller_____
+	W_InventoryGrid库存网格_C /Game/Maps场景/Level关卡.Level关卡:W_InventoryGrid库存网格_C_0
+	Function /Game/UMG界面/Inventory库存/W_InventoryGrid库存网格.W_InventoryGrid库存网格_C:ExecuteUbergraph_W_InventoryGrid库存网格:027A
+[2022.09.17-15.06.39:676][181]LogScript: Warning: “无访问”正在尝试读取属性 K2Node_DynamicCast_AsHG_Player_Controller_____
+	W_InventoryGrid库存网格_C /Game/Maps场景/Level关卡.Level关卡:W_InventoryGrid库存网格_C_0
+	Function /Game/UMG界面/Inventory库存/W_InventoryGrid库存网格.W_InventoryGrid库存网格_C:ExecuteUbergraph_W_InventoryGrid库存网格:027A
+[2022.09.17-15.06.39:685][182]LogScript: Warning: “无访问”正在尝试读取属性 K2Node_DynamicCast_AsHG_Player_Controller_____
+	W_InventoryGrid库存网格_C /Game/Maps场景/Level关卡.Level关卡:W_InventoryGrid库存网格_C_0
+	Function /Game/UMG界面/Inventory库存/W_InventoryGrid库存网格.W_InventoryGrid库存网格_C:ExecuteUbergraph_W_InventoryGrid库存网格:027A
+[2022.09.17-15.06.39:693][183]LogScript: Warning: “无访问”正在尝试读取属性 K2Node_DynamicCast_AsHG_Player_Controller_____
+	W_InventoryGrid库存网格_C /Game/Maps场景/Level关卡.Level关卡:W_InventoryGrid库存网格_C_0
+	Function /Game/UMG界面/Inventory库存/W_InventoryGrid库存网格.W_InventoryGrid库存网格_C:ExecuteUbergraph_W_InventoryGrid库存网格:027A
+[2022.09.17-15.06.39:706][184]LogScript: Warning: “无访问”正在尝试读取属性 K2Node_DynamicCast_AsHG_Player_Controller_____
+	W_InventoryGrid库存网格_C /Game/Maps场景/Level关卡.Level关卡:W_InventoryGrid库存网格_C_0
+	Function /Game/UMG界面/Inventory库存/W_InventoryGrid库存网格.W_InventoryGrid库存网格_C:ExecuteUbergraph_W_InventoryGrid库存网格:027A
+[2022.09.17-15.06.39:727][185]LogScript: Warning: “无访问”正在尝试读取属性 K2Node_DynamicCast_AsHG_Player_Controller_____
+	W_InventoryGrid库存网格_C /Game/Maps场景/Level关卡.Level关卡:W_InventoryGrid库存网格_C_0
+	Function /Game/UMG界面/Inventory库存/W_InventoryGrid库存网格.W_InventoryGrid库存网格_C:ExecuteUbergraph_W_InventoryGrid库存网格:027A
+[2022.09.17-15.06.39:739][186]LogScript: Warning: “无访问”正在尝试读取属性 K2Node_DynamicCast_AsHG_Player_Controller_____
+	W_InventoryGrid库存网格_C /Game/Maps场景/Level关卡.Level关卡:W_InventoryGrid库存网格_C_0
+	Function /Game/UMG界面/Inventory库存/W_InventoryGrid库存网格.W_InventoryGrid库存网格_C:ExecuteUbergraph_W_InventoryGrid库存网格:027A
+[2022.09.17-15.06.40:458][258]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG界面/Inventory库存/W_inventoryItemInfo道具信息.W_inventoryItemInfo道具信息
+[2022.09.17-15.06.40:459][258]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.17-15.06.40:461][258]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.17-15.06.40:464][258]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+空格键]
+[2022.09.17-15.06.40:800][258]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2022.09.17-15.06.40:800][258]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2022.09.17-15.06.40:974][258]LogSlateStyle: Warning: 缺失来自“CoreStyle”的资源 样式：“未能找到Slate颜色“Foreground”。”
+[2022.09.17-15.06.55:544][700]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints蓝图/Structs结构/S_ItemData道具数据_2.S_ItemData道具数据_2
